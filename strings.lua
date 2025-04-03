@@ -27,14 +27,6 @@ return {
         ["219_menu"] = "BR 219 (V 169)",
         ["219_menu"] = "BR 225",
 						
-        ["br210_vorspann_menu"] = "BR 210 Vorspann",
-        ["br215_vorspann_menu"] = "BR 215 Vorspann",
-        ["br216_vorspann_menu"] = "BR 216 (V 160) Vorspann",
-        ["br217_vorspann_menu"] = "BR 217 (V 162) Vorspann",
-        ["br218_vorspann_menu"] = "BR 218 (V 164) Vorspann",
-        ["br219_vorspann_menu"] = "BR 219 (V 169) Vorspann",
-        ["br225_vorspann_menu"] = "BR 225 Vorspann",
-
         ["br215_fake_menu"] = "BR 210 Fakes",
         ["br215_fake_menu"] = "BR 215 Fakes",
         ["br215_fake_menu"] = "BR 216 (V160) Fakes",
