@@ -101,6 +101,12 @@ return {
 					},
 					--- Fenster ---
 					{
+						materials = { "vehicle/train/br218/rumpf.mtl", },
+						mesh = "vehicle/train/br218/fensterrahmen_gummi_lod0.msh",
+						name = "Unterbau",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
 						materials = { "vehicle/train/br218/glas.mtl", },
 						mesh = "vehicle/train/br218/fenster_lod0.msh",
 						name = "licht_weiss_vorne",
@@ -114,12 +120,6 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					--- Griffe ---
-					{
-						materials = { "vehicle/train/br218/rumpf.mtl", },
-						mesh = "vehicle/train/br218/griff_front_lod0.msh",
-						name = "Griff Front",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
 					{
 						materials = { "vehicle/train/br218/rumpf.mtl", },
 						mesh = "vehicle/train/br218/griff_rund_lod0.msh",
@@ -674,7 +674,7 @@ return {
 				},
 			},
 			soundSet = { name = "train_electric_modern", },
-			topSpeed = 33.3333,
+			topSpeed = 38.88888889,
 			weight = 79,
 		},
 		transportVehicle = {
@@ -692,25 +692,24 @@ return {
 					crew = true,
                     forward = true,
 					group = 1,
-                    transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 7.55, -0.6, -1.8, 1, },
+                    transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 6.5, -0.6, 2.0, 1, },
                 },
                 {
                     animation = "driving_upright",
 					crew = true,
                     forward = false,
 					group = 1,
-                    transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, -7.55, 0.6, -1.8, 1, },
+                    transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, -6.5, 0.6, 2.0, 1, },
                 },
             },
 		},
 		v160_familie = {
 			fake = false,
-			vorspann = false,
 			br210 = false,
 			br215 = false,
 			br216 = false,
 			br217 = false,
-			br218 = false,
+			br218 = true,
 			br219 = false,
 			br225 = false,
 			privat = false,
