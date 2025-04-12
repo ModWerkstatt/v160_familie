@@ -638,10 +638,10 @@ return {
 			configs = {
 				{
 					axles = { "vehicle/train/br218/radsatz_lod0.msh", },
-					frontForwardParts = {  },
-          		backForwardParts = {  },
-          		frontBackwardParts = {  },
-          		backBackwardParts = {  },
+					frontForwardParts = { 11, },
+          		backForwardParts = { 12, },
+          		frontBackwardParts = { 13, },
+          		backBackwardParts = { 14, },
           		innerForwardParts = {  },
           		innerBackwardParts = {  }
 				},
@@ -670,10 +670,10 @@ return {
 				{
 					power = 1839,
 					tractiveEffort = 235,
-					type = "ELECTRIC",
+					type = "DIESEL",
 				},
 			},
-			soundSet = { name = "train_electric_modern", },
+			soundSet = { name = "train_diesel", },
 			topSpeed = 38.88888889,
 			weight = 79,
 		},
