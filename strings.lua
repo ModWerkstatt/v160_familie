@@ -66,13 +66,15 @@ return {
         ["option_br225_v160_familie_desc"] = "Sollen die Loks der BR 225 aktiviert werden?",		
 		
 		
-        ["br210_pur_name"] = 	"BR 210 pupurrot DB (1968)",		
-        ["br210_ob_name"] = 	"BR 210 ozeanblau/beige DB (1978)",
-        ["br210_or_name"] = 	"BR 218 orientrot DB (1987)",
-        ["br210_vr_name"] = 	"BR 218 verkehrsrot DB AG (1998)",
+        ["br210_ar_name"] = 	"BR 210 altrot DB (1968)",		
+        ["br210_ob_name"] = 	"BR 210 ozeanblau/beige DB (1978)",	
+        ["br210_pb_name"] = 	"BR 210 purpurroT/beige DB (1978)",
+        ["br210_or_name"] = 	"BR 210 orientrot DB (1987)",
+        ["br210_vr_name"] = 	"BR 210 verkehrsrot DB AG (1998)",
 		
-        ["br218_pur_name"] = 	"BR 218 pupurrot DB (1968)",		
-        ["br218_ob_name"] = 	"BR 218 ozeanblau/beige DB (1978)",
+        ["br218_ar_name"] = 	"BR 218 altrot DB (1968)",		
+        ["br218_ob_name"] = 	"BR 218 ozeanblau/beige DB (1975)",	
+        ["br218_pb_name"] = 	"BR 218 purpurrot/beige DB (1974)",
         ["br218_or_name"] = 	"BR 218 orientrot DB (1987)",
         ["br218_vr_name"] = 	"BR 218 verkehrsrot DB AG (1998)",
 		
