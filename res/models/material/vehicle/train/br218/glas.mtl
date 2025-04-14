@@ -11,12 +11,12 @@ return {
 		},
 		map_albedo_opacity = {
 			fileName = "models/vehicle/train/br218/fenster_albedo_opacity.dds",
-			scaleDownAllowed = false,
+			scaleDownAllowed = true,
 			type = "TWOD",
 		},
 		map_metal_gloss_ao = {
 			fileName = "models/vehicle/train/br218/fenster_metal_gloss_ao.dds",
-			scaleDownAllowed = false,
+			scaleDownAllowed = true,
 			type = "TWOD",
 		},
 		polygon_offset = {

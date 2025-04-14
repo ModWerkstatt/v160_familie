@@ -5,26 +5,26 @@ return {
 			indices = {
 				normal = {
 					count = 18432,
-					offset = 93792,
+					offset = 188896,
 				},
 				position = {
 					count = 18432,
-					offset = 56928,
+					offset = 152032,
 				},
 				tangent = {
 					count = 18432,
-					offset = 112224,
+					offset = 207328,
 				},
 				uv0 = {
 					count = 18432,
-					offset = 75360,
+					offset = 170464,
 				},
 			},
 		},
 	},
 	vertexAttr = {
 		normal = {
-			count = 12096,
+			count = 55296,
 			numComp = 3,
 			offset = 23008,
 		},
@@ -34,9 +34,9 @@ return {
 			offset = 0,
 		},
 		tangent = {
-			count = 21824,
+			count = 73728,
 			numComp = 4,
-			offset = 35104,
+			offset = 78304,
 		},
 		uv0 = {
 			count = 10912,
