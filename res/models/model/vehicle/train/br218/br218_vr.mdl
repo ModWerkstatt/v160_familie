@@ -135,14 +135,14 @@ return {
 					-- Dosen
 					{
 						materials = { "vehicle/train/br218/rumpf_vr.mtl", },
-						mesh = "vehicle/train/br218/is_dose_oben_lod0.msh",
+						mesh = "vehicle/train/br218/is_dosen_oben_lod0.msh",
 						name = "UIC Dose",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/br218/rumpf_vr.mtl", },
-						mesh = "vehicle/train/br218/heizsteuerkabel_lod0.msh",
-						name = "ZS Kabel",
+						mesh = "vehicle/train/br218/is_dosen_unten_lod0.msh",
+						name = "UIC Dose",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					-- Dachaufbauten

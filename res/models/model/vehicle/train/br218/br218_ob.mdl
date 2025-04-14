@@ -139,12 +139,6 @@ return {
 						name = "UIC Dose",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
-					{
-						materials = { "vehicle/train/br218/rumpf_ob.mtl", },
-						mesh = "vehicle/train/br218/heizsteuerkabel_lod0.msh",
-						name = "ZS Kabel",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
 					-- Dachaufbauten
 					{
 						materials = { "vehicle/train/br218/dach_ob.mtl", },

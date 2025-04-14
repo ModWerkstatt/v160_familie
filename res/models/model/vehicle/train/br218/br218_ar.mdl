@@ -139,12 +139,6 @@ return {
 						name = "UIC Dose",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
-					{
-						materials = { "vehicle/train/br218/rumpf_ar.mtl", },
-						mesh = "vehicle/train/br218/heizsteuerkabel_lod0.msh",
-						name = "ZS Kabel",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
 					-- Dachaufbauten
 					{
 						materials = { "vehicle/train/br218/dach_ar.mtl", },
@@ -175,19 +169,6 @@ return {
 						mesh = "vehicle/train/br218/kwmb_lod0.msh",
 						name = "Kühlwasser Messbehälter",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					-- Abgashutzen
-					{
-						materials = { "vehicle/train/br218/dach_ar.mtl", },
-						mesh = "vehicle/train/br218/hutze_links_lod0.msh",
-						name = "Abgashutze Links",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 3.47, 0.24083, 4.1672, 1, },
-					},
-					{
-						materials = { "vehicle/train/br218/dach_ar.mtl", },
-						mesh = "vehicle/train/br218/hutze_rechts_lod0.msh",
-						name = "Abgashutze Rechts",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 3.47, -0.24083, 4.1672, 1, },
 					},
 				},
 				name = "RootNode",

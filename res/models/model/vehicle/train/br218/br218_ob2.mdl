@@ -16,13 +16,13 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/br218/rumpf_ob.mtl", },
+						materials = { "vehicle/train/br218/rumpf_ob2.mtl", },
 						mesh = "vehicle/train/br218/rumpf_lod0.msh",
 						name = "Rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br218/rumpf_ob.mtl", },
+						materials = { "vehicle/train/br218/rumpf_ob2.mtl", },
 						mesh = "vehicle/train/br218/unterbau_lod0.msh",
 						name = "Unterbau",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -101,7 +101,7 @@ return {
 					},
 					--- Fenster ---
 					{
-						materials = { "vehicle/train/br218/rumpf_ob.mtl", },
+						materials = { "vehicle/train/br218/rumpf_ob2.mtl", },
 						mesh = "vehicle/train/br218/fensterrahmen_gummi_lod0.msh",
 						name = "Unterbau",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -114,35 +114,29 @@ return {
 					},
 					--- Lichter ---
 					{
-						materials = { "vehicle/train/br218/rumpf_ob.mtl", },
+						materials = { "vehicle/train/br218/rumpf_ob2.mtl", },
 						mesh = "vehicle/train/br218/gluehbirne_lod0.msh",
 						name = "Glühbirne",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					--- Griffe ---
 					{
-						materials = { "vehicle/train/br218/rumpf_ob.mtl", },
+						materials = { "vehicle/train/br218/rumpf_ob2.mtl", },
 						mesh = "vehicle/train/br218/griff_rund_lod0.msh",
 						name = "Griffe Front Seitlich",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br218/rumpf_ob.mtl", },
+						materials = { "vehicle/train/br218/rumpf_ob2.mtl", },
 						mesh = "vehicle/train/br218/griff_schraeg_lod0.msh",
 						name = "Griff Front Schräg",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					-- Dosen
 					{
-						materials = { "vehicle/train/br218/rumpf_ob.mtl", },
+						materials = { "vehicle/train/br218/rumpf_ob2.mtl", },
 						mesh = "vehicle/train/br218/is_dose_oben_lod0.msh",
 						name = "UIC Dose",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
-						materials = { "vehicle/train/br218/rumpf_ob.mtl", },
-						mesh = "vehicle/train/br218/heizsteuerkabel_lod0.msh",
-						name = "ZS Kabel",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					-- Dachaufbauten
