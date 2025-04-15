@@ -639,11 +639,11 @@ return {
 				{
 					axles = { "vehicle/train/br218/radsatz_lod0.msh", },
 					frontForwardParts = { 11, },
-          		backForwardParts = { 12, },
-          		frontBackwardParts = { 13, },
-          		backBackwardParts = { 14, },
-          		innerForwardParts = {  },
-          		innerBackwardParts = {  }
+              		backForwardParts = { 12, },
+              		frontBackwardParts = { 13, },
+              		backBackwardParts = { 14, },
+              		innerForwardParts = { },
+              		innerBackwardParts = { }
 				},
 --[[
 				{
