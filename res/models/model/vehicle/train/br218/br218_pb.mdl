@@ -607,7 +607,7 @@ return {
 	},
 	metadata = {
 		availability = {
-			yearFrom = 1968,
+			yearFrom = 1976,
 			yearTo = 1994,
 		},
 		cost = {
@@ -615,7 +615,7 @@ return {
 			priceScale = 1,
 		},
 		description = {
-			name = _("br218_pur_name"),
+			name = _("br218_pb_name"),
 			description = _("br218_desc"),
 		},
 		emission = {
