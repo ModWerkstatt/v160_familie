@@ -312,7 +312,7 @@ return {
 					},
 					-- Bahnräumer
 					{
-						materials = { "vehicle/train/br218/rumpf_ar22.mtl", },
+						materials = { "vehicle/train/br218/rumpf_ar2.mtl", },
 						mesh = "vehicle/train/br218/bahnraeumer_lod1.msh",
 						name = "Bahnräumer",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -446,7 +446,7 @@ return {
 					},
 					-- Bahnräumer
 					{
-						materials = { "vehicle/train/br218/rumpf_ar22.mtl", },
+						materials = { "vehicle/train/br218/rumpf_ar2.mtl", },
 						mesh = "vehicle/train/br218/bahnraeumer_lod2.msh",
 						name = "Bahnräumer",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
