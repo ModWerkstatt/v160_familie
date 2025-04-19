@@ -88,7 +88,7 @@ return {
         ["br218_vr_name"] = 	"BR 218 verkehrsrot DB AG (1998)",
         ["br218_vr2_name"] = 	"BR 218 verkehrsrot DB AG 2 (1998)",
         ["br218_vr3_name"] = 	"BR 218 verkehrsrot DB AG Nah.sh (2014)",
-        ["br218_vr4_name"] = 	"BR 218 verkehrsrot DB AG 2 (1998)",
+        ["br218_vr4_name"] = 	"BR 218 verkehrsrot DB AG 3 Löwen Takt (2007)",
 		
 		["218_desc"] = "Die G 1206 ist eine dieselhydraulische Lokomotive für den schweren Rangier- und Streckendienst. Die Lok wurde 1997 von MaK (Maschinenbau Kiel) entwickelt und gebaut. 1998 wurde MaK von Vossloh aufgekauft, seitdem laufen die Loks unter dem Namen Vossloh G 1206.",
 
