@@ -15,7 +15,7 @@ return {
 			fadeOutStartDist = 10000,
 		},
 		map_albedo = {
-			fileName = "models/vehicle/train/br218/rumpf_sbahn2_albedo.dds",
+			fileName = "models/vehicle/train/br218/rumpf_citybahn2_albedo.dds",
 			scaleDownAllowed = true,
 			type = "TWOD",
 		},

@@ -81,8 +81,8 @@ return {
         ["br218_ob5_name"] = 	"BR 218 ozeanblau/beige DB AG 2 (1994)",	
         ["br218_ob6_name"] = 	"BR 218 ozeanblau/beige DB AG Dach Ozeanblau (2006)",	
         ["br218_pb_name"] = 	"BR 218 purpurrot/beige DB (1976)",
-        ["br218_sbahn_name"] = 	"BR 218 kieselgrau/orange DB (1984)",
-        ["br218_sbahn2_name"] = "BR 218 kieselgrau/orange DB AG (1994)",
+        ["br218_citybahn_name"] = "BR 218 kieselgrau/orange DB (1984)",
+        ["br218_citybahn2_name"] = "BR 218 kieselgrau/orange DB AG (1994)",
         ["br218_or_name"] = 	"BR 218 orientrot DB (1987)",
         ["br218_vr_name"] = 	"BR 218 verkehrsrot DB AG (1998)",
 		
