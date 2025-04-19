@@ -479,6 +479,19 @@ return {
 			runningCostScale = 1,
 			runningCosts = -1,
 		},
+		particleSystem = {
+			emitters = {
+				{
+					child = 1,
+					color = { 0.6, 0.7, 0.7, },
+					frequency = 50,
+					lifeTime = 0.1,
+					position = { 3.47, 0.26, 4.15, },
+					size01 = { 0.25, 0.5, },
+					velocity = { 0, 0, 1, },
+				},
+			},
+		},
 		railVehicle = {
 			configs = {
 				{
