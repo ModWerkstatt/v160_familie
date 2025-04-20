@@ -112,6 +112,13 @@ return {
 						name = "licht_weiss_vorne",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
+					--- Innen ---
+					{
+						materials = { "vehicle/train/br218/innen.mtl", },
+						mesh = "vehicle/train/br218/innen_lod0.msh",
+						name = "Rumpf",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
 					--- Lichter ---
 					{
 						materials = { "vehicle/train/br218/rumpf_ob5.mtl", },
@@ -298,6 +305,13 @@ return {
 						name = "Fenster",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
+					--- Innen ---
+					{
+						materials = { "vehicle/train/br218/innen.mtl", },
+						mesh = "vehicle/train/br218/innen_lod1.msh",
+						name = "Rumpf",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
 					-- Dachaufbauten
 					{
 						materials = { "vehicle/train/br218/dach_ar.mtl", },
@@ -430,6 +444,13 @@ return {
 						materials = { "vehicle/train/br218/glas.mtl", },
 						mesh = "vehicle/train/br218/fenster_lod2.msh",
 						name = "Fenster",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					--- Innen ---
+					{
+						materials = { "vehicle/train/br218/innen.mtl", },
+						mesh = "vehicle/train/br218/innen_lod2.msh",
+						name = "Rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					-- Dachaufbauten
