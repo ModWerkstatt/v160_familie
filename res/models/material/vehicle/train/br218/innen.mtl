@@ -29,6 +29,6 @@ return {
 			twoSided = false,
 		},
 	},
-	type = "PHYSICAL",
+	type = "PHYSICAL_NRML_MAP",
 }
 end

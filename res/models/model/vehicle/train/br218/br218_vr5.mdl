@@ -126,7 +126,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br218/innen.mtl", },
+						materials = { "vehicle/train/br218/glas.mtl", },
 						mesh = "vehicle/train/br218/innen_sonnenblenden_lod0.msh",
 						name = "Rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
