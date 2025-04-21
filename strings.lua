@@ -86,6 +86,7 @@ return {
         ["br218_or_name"] = 	"BR 218 orientrot DB (1987)",
         ["br218_or2_name"] = 	"BR 218 orientrot DB AG (1994)",
         ["br218_or3_name"] = 	"BR 218 orientrot DB Autozug Sylt (2003)",
+        ["br218_or_versuch_name"] = "BR 218 orientrot DB Versuchslackierung (1987)",
         ["br218_vr_name"] = 	"BR 218 verkehrsrot DB AG (1998)",
         ["br218_vr2_name"] = 	"BR 218 verkehrsrot DB AG 2 (1998)",
         ["br218_vr3_name"] = 	"BR 218 verkehrsrot DB AG Nah.sh (2014)",
