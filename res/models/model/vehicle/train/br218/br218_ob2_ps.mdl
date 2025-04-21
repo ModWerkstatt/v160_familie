@@ -172,10 +172,10 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br218/dach_ob2.mtl", },
+                        materials = { "vehicle/train/br218/dach_ob2.mtl", },
 						mesh = "vehicle/train/br218/rotor1_lod0.msh",
 						name = "Dachplatte",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -0.808943, 0, 3.88682, 1, },
 					},
 					{
 						materials = { "vehicle/train/br218/dach_ob2.mtl", },
