@@ -1,0 +1,37 @@
+﻿function data()
+
+local data = soundsetutil.makeSoundSet()
+
+soundsetutil.addTrackParam01
+(data, "vehicle/218/piel.wav", 25.0,
+		{ 
+		{ 0.0, 0.8 }, 
+		{ 1.0, 1.0 } },
+		{ 
+		{ .0, 0.8 },
+		{ .1, 0.9 }, 
+		{ .3, 1.0 }, 
+		{ .5, 1.1 },  
+		{ 1.0, 1.35 } },
+		"power01")	
+				
+
+soundsetutil.addTrackParam01
+(data, "vehicle/218/roll.wav", 25.0,
+		{
+			{ 0.0, 0.0 },
+			{ 0.8, 0.1 },
+			{ 1.0, 1.0 } },
+		{
+			{ 0.0, 0.8 },
+			{ 1.0, 1.0 } },
+		"speed01")
+
+soundsetutil.addEvent(data, "horn", { "vehicle/218/218_horn.wav" }, 50.0)
+soundsetutil.addTrackSqueal(data, "vehicle/218/kurve.wav", 25.0)
+soundsetutil.addTrackBrake(data, "vehicle/218/bremse_alt.wav", 25.0, 1.0)
+
+
+return data
+
+end
