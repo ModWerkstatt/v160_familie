@@ -172,6 +172,14 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
+						animations = {
+							forever = {
+								params = {
+									id = "vehicle/train/v160/vent.ani",
+								},
+								type = "FILE_REF",
+							},
+						},
                         materials = { "vehicle/train/br218/dach_ob2.mtl", },
 						mesh = "vehicle/train/br218/rotor1_lod0.msh",
 						name = "Dachplatte",
