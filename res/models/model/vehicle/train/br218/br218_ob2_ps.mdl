@@ -184,7 +184,7 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br218/dach_ar.mtl", },
+						materials = { "vehicle/train/br218/dach_ob2.mtl", },
 						mesh = "vehicle/train/br218/dachplatten_lod0.msh",
 						name = "Dachplatte",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -200,7 +200,7 @@ return {
 						materials = { "vehicle/train/br218/dach_ob2.mtl", },
 						mesh = "vehicle/train/br218/hutze_rechts_lod0.msh",
 						name = "Abgashutze Rechts",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 3.47, -0.24083, 4.1672, 1, },
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.53, -0.24083, 4.1672, 1, },
 					},
 				},
 				name = "RootNode",
@@ -537,7 +537,7 @@ return {
 					color = { 0.2, 0.2, 0.2, },
 					frequency = 100,
 					lifeTime = 1,
-					position = { 3.47, -0.26, 4.3, },
+					position = { 1.53, -0.26, 4.3, },
 					size01 = { 0.25, 0.5, },
 					velocity = { 0, -1.2, 4, },
 					velocityDampingFactor = 0,
@@ -577,7 +577,7 @@ return {
 			},
 			engines = {
 				{
-					power = 1839,
+					power = 1986,
 					tractiveEffort = 235,
 					type = "DIESEL",
 				},
