@@ -7,8 +7,8 @@ function data()
     soundsetutil.addTrackParam01
     (data, "vehicle/br218/piel.wav", 25.0,
 		    {
-		        { 0.0, 0.8 },
-		        { 1.0, 1.0 }
+		        { 0.0, 1.0 },
+		        { 1.0, 1.3 }
             },
 		    {
 		        { .0, 0.8 },
