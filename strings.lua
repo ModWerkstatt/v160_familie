@@ -65,12 +65,12 @@ return {
         ["v160_familie_br210"] = "Loks der BR 225 aktivieren?",		
         ["option_br225_v160_familie_desc"] = "Sollen die Loks der BR 225 aktiviert werden?",		
 		
+        ["motor_mb_839"] = 		" Diese Lok ist mit dem Motor Mercedes-Benz 839 Bb ausgestattet.",
         ["motor_tb10_956"] = 	" Diese Lok ist mit dem Motor MTU MA 12 V 956 TB10 ausgestattet.",
         ["motor_pa_4v"] = 		" Diese Lok ist mit dem Motor Pielstick 16 PA 4V 200 ausgestattet.",	
         ["motor_tb11_956"] = 	" Diese Lok ist mit dem Motor MTU MA 12 V 956 TB11 ausgestattet.",		
         ["motor_tb11_956_neu"] = " Diese Lok ist mit dem Motor MTU MA 12 V 956 TB 11 Neu ausgestattet.",		
-        ["motor_r40"] = 		" Diese Lok ist mit dem Motor MTU 16 V4000 R40 ausgestattet.",		
-        ["motor_r41"] = 		" Diese Lok ist mit dem Motor MTU 15 V4000 R41 ausgestattet.",			
+        ["motor_r40"] = 		" Diese Lok ist mit dem Motor MTU 16 V4000 R40 ausgestattet.",			
 				
         ["br210_ar_name"] = 	"BR 210 altrot DB (1968)",		
         ["br210_ob_name"] = 	"BR 210 ozeanblau/beige DB (1978)",	
