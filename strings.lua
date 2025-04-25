@@ -48,20 +48,23 @@ return {
         ["v160_familie_br210"] = "Loks der BR 210 aktivieren?",
         ["option_br210_v160_familie_desc"] = "Sollen die Loks der BR 210 aktiviert werden?",
 		
-        ["v160_familie_br210"] = "Loks der BR 215 aktivieren?",		
+        ["v160_familie_br215"] = "Loks der BR 215 aktivieren?",		
         ["option_br215_v160_familie_desc"] = "Sollen die Loks der BR 215 aktiviert werden?",
 		
-        ["v160_familie_br210"] = "Loks der BR 216 aktivieren?",		
+        ["v160_familie_br216"] = "Loks der BR 216 aktivieren?",		
         ["option_br216_v160_familie_desc"] = "Sollen die Loks der BR 216 aktiviert werden?",
 		
-        ["v160_familie_br210"] = "Loks der BR 217 aktivieren?",		
+        ["v160_familie_br217"] = "Loks der BR 217 aktivieren?",		
         ["option_br217_v160_familie_desc"] = "Sollen die Loks der BR 217 aktiviert werden?",
 		
-        ["v160_familie_br210"] = "Loks der BR 218 aktivieren?",		
+        ["v160_familie_br218"] = "Loks der BR 218 aktivieren?",		
         ["option_br218_v160_familie_desc"] = "Sollen die Loks der BR 218 aktiviert werden?",
 		
-        ["v160_familie_br210"] = "Loks der BR 225 aktivieren?",		
-        ["option_br225_v160_familie_desc"] = "Sollen die Loks der BR 225 aktiviert werden?",		
+        ["v160_familie_br225"] = "Loks der BR 225 aktivieren?",		
+        ["option_br225_v160_familie_desc"] = "Sollen die Loks der BR 225 aktiviert werden?",	
+		
+        ["v160_familie_br226"] = "Loks der BR 226 aktivieren?",		
+        ["option_br226_v160_familie_desc"] = "Sollen die Loks der BR 226 aktiviert werden?",			
 		
         ["motor_mb_839"] = 		" Diese Lok ist mit dem Motor Mercedes-Benz 839 Bb ausgestattet.",
         ["motor_tb10_956"] = 	" Diese Lok ist mit dem Motor MTU MA 12 V 956 TB10 ausgestattet.",

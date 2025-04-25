@@ -80,6 +80,13 @@ return {
 				tooltip = _("option_br225_v160_familie_desc"),
 				defaultIndex = 1,
 			},
+			{
+				key = "v160_familie_br226",
+				name = _("v160_familie_br226"),
+				values = { "No", "Yes", },
+				tooltip = _("option_br226_v160_familie_desc"),
+				defaultIndex = 1,
+			},
         },
 	},
 	options = {
@@ -158,6 +165,14 @@ return {
 			return data
 		end
 
+		local br226Filter = function(fileName, data)
+			if data.metadata.transportVehicle and data.metadata.v160_familie and data.metadata.v160_familie.br226 == true then
+				data.metadata.availability.yearFrom = 1
+				data.metadata.availability.yearTo = 2
+			end
+			return data
+		end
+
 		if modParams[getCurrentModId()] ~= nil then
 			local params = modParams[getCurrentModId()]
 			if params["v160_familie_vorspann"] == 0 then
@@ -191,6 +206,9 @@ return {
 			if params["br225_privatbahn"] == 0 then
 				addModifier("loadModel", br225Filter)
 			end
+			if params["br226_privatbahn"] == 0 then
+				addModifier("loadModel", br226Filter)
+			end
 
 		else
 			--addFileFilter("model/transportVehicle", vorspannFilter)
@@ -203,6 +221,7 @@ return {
 			addModifier("loadModel", br218Filter)
 			addModifier("loadModel", br219Filter)
 			addModifier("loadModel", br225Filter)
+			addModifier("loadModel", br226Filter)
 		end
 	end
 }
