@@ -74,15 +74,15 @@ return {
         ["motor_r40"] = 		" Diese Lok ist mit dem Motor MTU 16 V4000 R40 ausgestattet.",			
 				
         ["br210_ar_name"] = 	"BR 210 altrot DB (1968)",		
-        ["br210_ob_name"] = 	"BR 210 ozeanblau/beige DB (1978)",	
-        ["br210_pb_name"] = 	"BR 210 purpurroT/beige DB (1978)",
+        ["br210_ob_name"] = 	"BR 210 ozeanblau/beige DB (1974)",	
+        ["br210_pb_name"] = 	"BR 210 purpurrot/beige DB (1976)",
         ["br210_or_name"] = 	"BR 210 orientrot DB (1987)",
         ["br210_vr_name"] = 	"BR 210 verkehrsrot DB AG (1998)",
 		
         ["br215_ar_name"] = 	"BR 215 altrot DB (1968)",	
         ["br215_ar2_name"] = 	"BR 215 altrot DB 2 (1968)",		
-        ["br215_ob_name"] = 	"BR 215 ozeanblau/beige DB (1978)",	
-        ["br215_pb_name"] = 	"BR 215 purpurroT/beige DB (1978)",
+        ["br215_ob_name"] = 	"BR 215 ozeanblau/beige DB (1974)",		
+        ["br215_ob_name"] = 	"BR 215 ozeanblau/beige DB AG (1994)",	
         ["br215_or_name"] = 	"BR 215 orientrot DB (1987)",
         ["br215_vr_name"] = 	"BR 215 verkehrsrot DB AG (1998)",
 		
