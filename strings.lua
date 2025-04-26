@@ -92,7 +92,8 @@ return {
 			
         ["br225_or1_name"] = 	"BR 225 orientrot DB AG (1994)",
         ["br225_vr_name"] = 	"BR 225 verkehrsrot DB AG (1998)",
-        ["br225_vr2_name"] = 	"BR 225 verkehrsrot Ralion Logistics (2007)",
+        ["br225_vr2_name"] = 	"BR 225 verkehrsrot Ralion (2003)",
+        ["br225_vr3_name"] = 	"BR 225 verkehrsrot Ralion Logistics (2007)",
 		
 		["215_desc"] = "Die BR 215 ...",
 		
