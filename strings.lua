@@ -86,6 +86,8 @@ return {
         ["br215_or_name"] = 	"BR 215 orientrot DB (1987)",
         ["br215_vr_name"] = 	"BR 215 verkehrsrot DB AG (1998)",
 		
+		["215_desc"] = "Die BR 215 ...",
+		
         ["br218_ar_name"] = 	"BR 218 altrot DB (1971)",		
         ["br218_ar2_name"] = 	"BR 218 altrot DB 2 (1971)",		
         ["br218_ob_name"] = 	"BR 218 ozeanblau/beige DB (1974)",	
@@ -107,12 +109,12 @@ return {
         ["br218_vr4_name"] = 	"BR 218 verkehrsrot DB AG 3 Löwen Takt (2000)",
         ["br218_vr5_name"] = 	"BR 218 verkehrsrot DB Autozug Sylt (2003)",
         ["br218_vr6_name"] = 	"BR 218 verkehrsrot DB AG bwegt (2017)",
+		
         ["br218_vr7_name"] = 	"BR 218 verkehrsrot DB AG (2007)",
 		
-		["218_desc"] = "Die G 1206 ist eine dieselhydraulische Lokomotive für den schweren Rangier- und Streckendienst. Die Lok wurde 1997 von MaK (Maschinenbau Kiel) entwickelt und gebaut. 1998 wurde MaK von Vossloh aufgekauft, seitdem laufen die Loks unter dem Namen Vossloh G 1206.",
+		["218_desc"] = "Die BR 218 ...",
 
-		--- Standard ---
-        ["g1206_alpha_name"] = "G 1206 Alpha Trains (2017)",
+
 
 	},
 }
