@@ -79,12 +79,20 @@ return {
         ["br210_or_name"] = 	"BR 210 orientrot DB (1987)",
         ["br210_vr_name"] = 	"BR 210 verkehrsrot DB AG (1998)",
 		
+		["210_desc"] = "Die BR 210 ...",
+		
         ["br215_ar_name"] = 	"BR 215 altrot DB (1968)",	
         ["br215_ar2_name"] = 	"BR 215 altrot DB 2 (1968)",		
         ["br215_ob_name"] = 	"BR 215 ozeanblau/beige DB (1974)",		
         ["br215_ob_name"] = 	"BR 215 ozeanblau/beige DB AG (1994)",	
-        ["br215_or_name"] = 	"BR 215 orientrot DB (1987)",
+        ["br215_or_name"] = 	"BR 215 orientrot DB (1987)",	
+        ["br215_or2_name"] = 	"BR 215 orientrot DB AG (1994)",
         ["br215_vr_name"] = 	"BR 215 verkehrsrot DB AG (1998)",
+        ["br215_vr2_name"] = 	"BR 215.9 verkehrsrot DB AG (2003)",
+			
+        ["br225_or1_name"] = 	"BR 225 orientrot DB AG (1994)",
+        ["br225_vr_name"] = 	"BR 225 verkehrsrot DB AG (1998)",
+        ["br225_vr2_name"] = 	"BR 225 verkehrsrot Ralion Logistics (2007)",
 		
 		["215_desc"] = "Die BR 215 ...",
 		
