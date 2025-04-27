@@ -74,9 +74,7 @@ return {
         ["motor_r40"] = 		" Diese Lok ist mit dem Motor MTU 16 V4000 R40 ausgestattet.",			
 				
         ["br210_ar_name"] = 	"BR 210 altrot DB (1970)",		
-        ["br210_ob_name"] = 	"BR 210 ozeanblau/beige DB (1974)",	
-        ["br210_or_name"] = 	"BR 210 orientrot DB (1987)",
-        ["br210_vr_name"] = 	"BR 210 verkehrsrot DB AG (1998)",
+        ["br210_ob_name"] = 	"BR 210 ozeanblau/beige DB (1974)",
 		
 		["210_desc"] = "Die BR 210 ...",
 		
