@@ -564,14 +564,14 @@ return {
 			},
 			engines = {
 				{
-					power = 1397,
+					power = 2500,
 					tractiveEffort = 235,
 					type = "DIESEL",
 				},
 			},
 			soundSet = { name = "train_diesel", },
 			topSpeed = 44.444444444,
-			weight = 79,
+			weight = 82,
 		},
 		transportVehicle = {
             carrier = "RAIL",
@@ -601,8 +601,8 @@ return {
 		},
 		v160_familie = {
 			fake = false,
-			br210 = false,
 			br210 = true,
+			br215 = false,
 			br216 = false,
 			br217 = false,
 			br218 = false,
