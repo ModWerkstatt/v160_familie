@@ -15,12 +15,12 @@ return {
 			fadeOutStartDist = 10000,
 		},
 		map_albedo = {
-			fileName = "models/vehicle/train/br218/fahrwerk_albedo.dds",
+			fileName = "models/vehicle/train/br210/rumpf_ar_albedo.dds",
 			scaleDownAllowed = true,
 			type = "TWOD",
 		},
 		map_cblend_dirt_rust = {
-			fileName = "models/vehicle/train/br218/fahrwerk_cblend_dirt_rust.dds",
+			fileName = "models/vehicle/train/br210/rumpf_cblend_dirt_rust.dds",
 			scaleDownAllowed = true,
 			type = "TWOD",
 		},
@@ -33,12 +33,12 @@ return {
 			type = "TWOD",
 		},
 		map_metal_gloss_ao = {
-			fileName = "models/vehicle/train/br218/fahrwerk_metal_gloss_ao.dds",
+			fileName = "models/vehicle/train/br210/rumpf_metal_gloss_ao.dds",
 			scaleDownAllowed = true,
 			type = "TWOD",
 		},
 		map_normal = {
-			fileName = "models/vehicle/train/br218/fahrwerk_normal.dds",
+			fileName = "models/vehicle/train/br210/rumpf_normal.dds",
 			scaleDownAllowed = true,
 			type = "TWOD",
 		},
