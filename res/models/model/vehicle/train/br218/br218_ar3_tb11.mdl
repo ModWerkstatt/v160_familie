@@ -31,19 +31,19 @@ return {
                         children =  {
         					{
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
-								mesh = "vehicle/train/br218/krupp-drehgestell_lod0.msh",
+								mesh = "vehicle/train/allgemein/drehgestell-krupp_lod0.msh",
 						        name = "drehgestell",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0.872258, 1, },
 					        },
 					        {
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
-								mesh = "vehicle/train/br218/radsatz_lod0.msh",
+								mesh = "vehicle/train/allgemein/radsatz_lod0.msh",
 						        name = "rad",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.43, 0, 0.49182, 1, },
 					        },
 					        {
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
-								mesh = "vehicle/train/br218/radsatz_lod0.msh",
+								mesh = "vehicle/train/allgemein/radsatz_lod0.msh",
 						        name = "rad",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.43, 0, 0.49182, 1, },
 					        },
@@ -55,19 +55,19 @@ return {
                         children =  {
         					{
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
-								mesh = "vehicle/train/br218/krupp-drehgestell_lod0.msh",
+								mesh = "vehicle/train/allgemein/drehgestell-krupp_lod0.msh",
 						        name = "drehgestell",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0.872258, 1, },
 					        },
 					        {
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
-								mesh = "vehicle/train/br218/radsatz_lod0.msh",
+								mesh = "vehicle/train/allgemein/radsatz_lod0.msh",
 						        name = "rad",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.43, 0, 0.49182, 1, },
 					        },
 					        {
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
-								mesh = "vehicle/train/br218/radsatz_lod0.msh",
+								mesh = "vehicle/train/allgemein/radsatz_lod0.msh",
 						        name = "rad",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.43, 0, 0.49182, 1, },
 					        },
@@ -102,7 +102,7 @@ return {
 					--- Fenster ---
 					{
 						materials = { "vehicle/train/br218/rumpf_ar3.mtl", },
-						mesh = "vehicle/train/br218/fensterrahmen_gummi_lod0.msh",
+						mesh = "vehicle/train/allgemein/fensterrahmen_gummi_lod0.msh",
 						name = "Fensterrahmen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -161,13 +161,13 @@ return {
 					-- Dachaufbauten
 					{
 						materials = { "vehicle/train/br218/dach_ar.mtl", },
-						mesh = "vehicle/train/br218/BS2_TB10_1MANT_lod0.msh",
+						mesh = "vehicle/train/allgemein/BS2_TB10_1MANT_lod0.msh",
 						name = "Abgas Öffnungen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/br218/dach_ar.mtl", },
-						mesh = "vehicle/train/br218/luefter_behr_lod0.msh",
+						mesh = "vehicle/train/allgemein/luefter_behr_lod0.msh",
 						name = "Kühler",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -186,20 +186,20 @@ return {
 					-- Abgashutzen
 					{
 						materials = { "vehicle/train/br218/dach_ob.mtl", },
-						mesh = "vehicle/train/br218/hutze_links_lod0.msh",
+						mesh = "vehicle/train/allgemein/hutze_links_lod0.msh",
 						name = "Abgashutze Links",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 3.15, 0.24083, 4.1672, 1, },
 					},
 					{
 						materials = { "vehicle/train/br218/dach_ob.mtl", },
-						mesh = "vehicle/train/br218/hutze_rechts_lod0.msh",
+						mesh = "vehicle/train/allgemein/hutze_rechts_lod0.msh",
 						name = "Abgashutze Rechts",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 3.15, -0.24083, 4.1672, 1, },
 					},
 					-- Bahnräumer
 					{
 						materials = { "vehicle/train/br218/rumpf_ar3.mtl", },
-						mesh = "vehicle/train/br218/bahnraeumer_lod0.msh",
+						mesh = "vehicle/train/allgemein/bahnraeumer_lod0.msh",
 						name = "Bahnräumer",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -230,19 +230,19 @@ return {
                         children =  {
         					{
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
-								mesh = "vehicle/train/br218/krupp-drehgestell_lod1.msh",
+								mesh = "vehicle/train/allgemein/drehgestell-krupp_lod1.msh",
 						        name = "drehgestell",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0.872258, 1, },
 					        },
 					        {
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
-								mesh = "vehicle/train/br218/radsatz_lod1.msh",
+								mesh = "vehicle/train/allgemein/radsatz_lod1.msh",
 						        name = "rad",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.43, 0, 0.49182, 1, },
 					        },
 					        {
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
-								mesh = "vehicle/train/br218/radsatz_lod1.msh",
+								mesh = "vehicle/train/allgemein/radsatz_lod1.msh",
 						        name = "rad",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.43, 0, 0.49182, 1, },
 					        },
@@ -254,19 +254,19 @@ return {
                         children =  {
         					{
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
-								mesh = "vehicle/train/br218/krupp-drehgestell_lod1.msh",
+								mesh = "vehicle/train/allgemein/drehgestell-krupp_lod1.msh",
 						        name = "drehgestell",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0.872258, 1, },
 					        },
 					        {
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
-								mesh = "vehicle/train/br218/radsatz_lod1.msh",
+								mesh = "vehicle/train/allgemein/radsatz_lod1.msh",
 						        name = "rad",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.43, 0, 0.49182, 1, },
 					        },
 					        {
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
-								mesh = "vehicle/train/br218/radsatz_lod1.msh",
+								mesh = "vehicle/train/allgemein/radsatz_lod1.msh",
 						        name = "rad",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.43, 0, 0.49182, 1, },
 					        },
@@ -301,7 +301,7 @@ return {
 					--- Fenster ---
 					{
 						materials = { "vehicle/train/br218/rumpf_ar3.mtl", },
-						mesh = "vehicle/train/br218/fensterrahmen_gummi_lod1.msh",
+						mesh = "vehicle/train/allgemein/fensterrahmen_gummi_lod1.msh",
 						name = "Fensterrahmen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -321,13 +321,13 @@ return {
 					-- Dachaufbauten
 					{
 						materials = { "vehicle/train/br218/dach_ar.mtl", },
-						mesh = "vehicle/train/br218/BS2_TB10_1MANT_lod1.msh",
+						mesh = "vehicle/train/allgemein/BS2_TB10_1MANT_lod1.msh",
 						name = "Abgas Öffnungen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/br218/dach_ar.mtl", },
-						mesh = "vehicle/train/br218/luefter_behr_lod1.msh",
+						mesh = "vehicle/train/allgemein/luefter_behr_lod1.msh",
 						name = "Kühler",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -340,7 +340,7 @@ return {
 					-- Bahnräumer
 					{
 						materials = { "vehicle/train/br218/rumpf_ar3.mtl", },
-						mesh = "vehicle/train/br218/bahnraeumer_lod1.msh",
+						mesh = "vehicle/train/allgemein/bahnraeumer_lod1.msh",
 						name = "Bahnräumer",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -371,19 +371,19 @@ return {
                         children =  {
         					{
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
-								mesh = "vehicle/train/br218/drehgestell_lod2.msh",
+								mesh = "vehicle/train/allgemein/drehgestell_lod2.msh",
 						        name = "drehgestell",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0.872258, 1, },
 					        },
 					        {
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
-								mesh = "vehicle/train/br218/radsatz_lod2.msh",
+								mesh = "vehicle/train/allgemein/radsatz_lod2.msh",
 						        name = "rad",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.43, 0, 0.49182, 1, },
 					        },
 					        {
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
-								mesh = "vehicle/train/br218/radsatz_lod2.msh",
+								mesh = "vehicle/train/allgemein/radsatz_lod2.msh",
 						        name = "rad",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.43, 0, 0.49182, 1, },
 					        },
@@ -395,19 +395,19 @@ return {
                         children =  {
         					{
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
-								mesh = "vehicle/train/br218/drehgestell_lod2.msh",
+								mesh = "vehicle/train/allgemein/drehgestell_lod2.msh",
 						        name = "drehgestell",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0.872258, 1, },
 					        },
 					        {
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
-								mesh = "vehicle/train/br218/radsatz_lod2.msh",
+								mesh = "vehicle/train/allgemein/radsatz_lod2.msh",
 						        name = "rad",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.43, 0, 0.49182, 1, },
 					        },
 					        {
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
-								mesh = "vehicle/train/br218/radsatz_lod2.msh",
+								mesh = "vehicle/train/allgemein/radsatz_lod2.msh",
 						        name = "rad",
 								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.43, 0, 0.49182, 1, },
 					        },
@@ -456,13 +456,13 @@ return {
 					-- Dachaufbauten
 					{
 						materials = { "vehicle/train/br218/dach_ar.mtl", },
-						mesh = "vehicle/train/br218/BS2_TB10_1MANT_lod2.msh",
+						mesh = "vehicle/train/allgemein/BS2_TB10_1MANT_lod2.msh",
 						name = "Abgas Öffnungen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/br218/dach_ar.mtl", },
-						mesh = "vehicle/train/br218/luefter_behr_lod2.msh",
+						mesh = "vehicle/train/allgemein/luefter_behr_lod2.msh",
 						name = "Kühler",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -475,7 +475,7 @@ return {
 					-- Bahnräumer
 					{
 						materials = { "vehicle/train/br218/rumpf_ar3.mtl", },
-						mesh = "vehicle/train/br218/bahnraeumer_lod2.msh",
+						mesh = "vehicle/train/allgemein/bahnraeumer_lod2.msh",
 						name = "Bahnräumer",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -557,7 +557,7 @@ return {
 		railVehicle = {
 			configs = {
 				{
-					axles = { "vehicle/train/br218/radsatz_lod0.msh", },
+					axles = { "vehicle/train/allgemein/radsatz_lod0.msh", },
 					frontForwardParts = { 11, },
               		backForwardParts = { 12, },
               		frontBackwardParts = { 13, },
@@ -566,7 +566,7 @@ return {
               		innerBackwardParts = { }
 				},
 				{
-					axles = { "vehicle/train/br218/radsatz_lod1.msh", },
+					axles = { "vehicle/train/allgemein/radsatz_lod1.msh", },
 					frontForwardParts = { 11, },
               		backForwardParts = { 12, },
               		frontBackwardParts = { 13, },
@@ -575,7 +575,7 @@ return {
               		innerBackwardParts = { }
 				},
 				{
-					axles = { "vehicle/train/br218/radsatz_lod2.msh", },
+					axles = { "vehicle/train/allgemein/radsatz_lod2.msh", },
 					frontForwardParts = { 11, },
               		backForwardParts = { 12, },
               		frontBackwardParts = { 13, },
