@@ -74,9 +74,7 @@ return {
         ["motor_r40"] = 		" Diese Lok ist mit dem Motor MTU 16 V4000 R40 ausgestattet.",			
 				
         ["br210_ar_name"] = 	"BR 210 altrot DB (1970)",		
-        ["br210_ob_name"] = 	"BR 210 ozeanblau/beige DB (1974)",	
-        ["br210_or_name"] = 	"BR 210 orientrot DB (1987)",
-        ["br210_vr_name"] = 	"BR 210 verkehrsrot DB AG (1998)",
+        ["br210_ob_name"] = 	"BR 210 ozeanblau/beige DB (1974)",
 		
 		["210_desc"] = "Die BR 210 ...",
 		
@@ -97,6 +95,13 @@ return {
         ["br225_vr3_name"] = 	"BR 225 verkehrsrot Ralion Logistics (2007)",
 		
 		["215_desc"] = "Die BR 215 ...",
+		
+        ["v160_ar_name"] = 		"V 160 altrot DB (1964)",
+        ["br216_ar_name"] = 	"BR 216 altrot DB (1968)",		
+        ["br216_ob_name"] = 	"BR 216 ozeanblau/beige DB (1974)",	
+        ["br216_or_name"] = 	"BR 216 orientrot DB (1987)",
+        ["br216_vr_name"] = 	"BR 216 verkehrsrot DB AG (1998)",	
+		
 		
         ["br218_ar_name"] = 	"BR 218 altrot DB (1971)",		
         ["br218_ar2_name"] = 	"BR 218 altrot DB 2 (1971)",		
