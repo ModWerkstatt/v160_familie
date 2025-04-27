@@ -31,9 +31,9 @@ return {
                         children =  {
         					{
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
-								mesh = "vehicle/train/br218/krupp-drehgestell_lod0.msh",
+								mesh = "vehicle/train/br218/gummi_drehgestell_lod0.msh",
 						        name = "drehgestell",
-								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0.872258, 1, },
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1.11258, 1, },
 					        },
 					        {
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
@@ -55,9 +55,9 @@ return {
                         children =  {
         					{
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
-								mesh = "vehicle/train/br218/krupp-drehgestell_lod0.msh",
+								mesh = "vehicle/train/br218/gummi_drehgestell_lod0.msh",
 						        name = "drehgestell",
-								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0.872258, 1, },
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1.11258, 1, },
 					        },
 					        {
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
@@ -223,9 +223,9 @@ return {
                         children =  {
         					{
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
-								mesh = "vehicle/train/br218/krupp-drehgestell_lod1.msh",
+								mesh = "vehicle/train/br218/gummi_drehgestell_lod1.msh",
 						        name = "drehgestell",
-								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0.872258, 1, },
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1.11258, 1, },
 					        },
 					        {
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
@@ -247,9 +247,9 @@ return {
                         children =  {
         					{
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
-								mesh = "vehicle/train/br218/krupp-drehgestell_lod1.msh",
+								mesh = "vehicle/train/br218/gummi_drehgestell_lod1.msh",
 						        name = "drehgestell",
-								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0.872258, 1, },
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1.11258, 1, },
 					        },
 					        {
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
@@ -313,19 +313,19 @@ return {
 					},
 					-- Dachaufbauten
 					{
-						materials = { "vehicle/train/br218/dach_ar.mtl", },
+						materials = { "vehicle/train/br218/dach_ob2.mtl", },
 						mesh = "vehicle/train/br218/BS1_TB11_2MANT_lod1.msh",
 						name = "Abgas Öffnungen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br218/dach_ar.mtl", },
+						materials = { "vehicle/train/br218/dach_ob2.mtl", },
 						mesh = "vehicle/train/br218/luefter_voith_lod1.msh",
 						name = "Kühler",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br218/dach_ar.mtl", },
+						materials = { "vehicle/train/br218/dach_ob2.mtl", },
 						mesh = "vehicle/train/br218/dachplatten_lod1.msh",
 						name = "Dachplatte",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -359,7 +359,7 @@ return {
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
 								mesh = "vehicle/train/br218/drehgestell_lod2.msh",
 						        name = "drehgestell",
-								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0.872258, 1, },
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1.11258, 1, },
 					        },
 					        {
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
@@ -383,7 +383,7 @@ return {
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
 								mesh = "vehicle/train/br218/drehgestell_lod2.msh",
 						        name = "drehgestell",
-								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0.872258, 1, },
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1.11258, 1, },
 					        },
 					        {
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
@@ -441,19 +441,19 @@ return {
 					},
 					-- Dachaufbauten
 					{
-						materials = { "vehicle/train/br218/dach_ar.mtl", },
+						materials = { "vehicle/train/br218/dach_ob2.mtl", },
 						mesh = "vehicle/train/br218/BS1_TB11_2MANT_lod2.msh",
 						name = "Abgas Öffnungen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br218/dach_ar.mtl", },
+						materials = { "vehicle/train/br218/dach_ob2.mtl", },
 						mesh = "vehicle/train/br218/luefter_voith_lod2.msh",
 						name = "Kühler",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br218/dach_ar.mtl", },
+						materials = { "vehicle/train/br218/dach_ob2.mtl", },
 						mesh = "vehicle/train/br218/dachplatten_lod2.msh",
 						name = "Dachplatte",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },

@@ -319,25 +319,25 @@ return {
 					},
 					-- Dachaufbauten
 					{
-						materials = { "vehicle/train/br218/dach_ar.mtl", },
+						materials = { "vehicle/train/br218/dach_ob.mtl", },
 						mesh = "vehicle/train/br218/BS1_TB10_2MANT_KWMB_lod1.msh",
 						name = "Abgas Öffnungen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br218/dach_ar.mtl", },
+						materials = { "vehicle/train/br218/dach_ob.mtl", },
 						mesh = "vehicle/train/br218/luefter_behr_lod1.msh",
 						name = "Kühler",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br218/dach_ar.mtl", },
+						materials = { "vehicle/train/br218/dach_ob.mtl", },
 						mesh = "vehicle/train/br218/dachplatten_lod1.msh",
 						name = "Dachplatte",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br218/dach_ar.mtl", },
+						materials = { "vehicle/train/br218/dach_ob.mtl", },
 						mesh = "vehicle/train/br218/kwmb_lod1.msh",
 						name = "Kühlwasser Messbehälter",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -453,19 +453,19 @@ return {
 					},
 					-- Dachaufbauten
 					{
-						materials = { "vehicle/train/br218/dach_ar.mtl", },
+						materials = { "vehicle/train/br218/dach_ob.mtl", },
 						mesh = "vehicle/train/br218/BS1_TB10_2MANT_KWMB_lod2.msh",
 						name = "Abgas Öffnungen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br218/dach_ar.mtl", },
+						materials = { "vehicle/train/br218/dach_ob.mtl", },
 						mesh = "vehicle/train/br218/luefter_behr_lod2.msh",
 						name = "Kühler",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br218/dach_ar.mtl", },
+						materials = { "vehicle/train/br218/dach_ob.mtl", },
 						mesh = "vehicle/train/br218/dachplatten_lod2.msh",
 						name = "Dachplatte",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },

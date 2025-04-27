@@ -31,9 +31,9 @@ return {
                         children =  {
         					{
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
-								mesh = "vehicle/train/br218/krupp-drehgestell_lod0.msh",
+								mesh = "vehicle/train/br218/gummi_drehgestell_lod0.msh",
 						        name = "drehgestell",
-								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0.872258, 1, },
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1.11258, 1, },
 					        },
 					        {
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
@@ -55,9 +55,9 @@ return {
                         children =  {
         					{
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
-								mesh = "vehicle/train/br218/krupp-drehgestell_lod0.msh",
+								mesh = "vehicle/train/br218/gummi_drehgestell_lod0.msh",
 						        name = "drehgestell",
-								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0.872258, 1, },
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1.11258, 1, },
 					        },
 					        {
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
@@ -215,6 +215,7 @@ return {
 			},
 			static = false,
 			visibleFrom = 0,
+			visibleTo = 100,
 
 		},
 		{
@@ -236,9 +237,9 @@ return {
                         children =  {
         					{
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
-								mesh = "vehicle/train/br218/krupp-drehgestell_lod1.msh",
+								mesh = "vehicle/train/br218/gummi_drehgestell_lod1.msh",
 						        name = "drehgestell",
-								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0.872258, 1, },
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1.11258, 1, },
 					        },
 					        {
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
@@ -260,9 +261,9 @@ return {
                         children =  {
         					{
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
-								mesh = "vehicle/train/br218/krupp-drehgestell_lod1.msh",
+								mesh = "vehicle/train/br218/gummi_drehgestell_lod1.msh",
 						        name = "drehgestell",
-								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0.872258, 1, },
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1.11258, 1, },
 					        },
 					        {
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
@@ -379,7 +380,7 @@ return {
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
 								mesh = "vehicle/train/br218/drehgestell_lod2.msh",
 						        name = "drehgestell",
-								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0.872258, 1, },
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1.11258, 1, },
 					        },
 					        {
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
@@ -403,7 +404,7 @@ return {
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
 								mesh = "vehicle/train/br218/drehgestell_lod2.msh",
 						        name = "drehgestell",
-								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0.872258, 1, },
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1.11258, 1, },
 					        },
 					        {
 								materials = { "vehicle/train/br218/fahrwerk.mtl", },
