@@ -96,6 +96,13 @@ return {
 		
 		["215_desc"] = "Die BR 215 ...",
 		
+        ["v160_ar_name"] = 		"V 160 altrot DB (1964)",
+        ["br216_ar_name"] = 	"BR 216 altrot DB (1968)",		
+        ["br216_ob_name"] = 	"BR 216 ozeanblau/beige DB (1974)",	
+        ["br216_or_name"] = 	"BR 216 orientrot DB (1987)",
+        ["br216_vr_name"] = 	"BR 216 verkehrsrot DB AG (1998)",	
+		
+		
         ["br218_ar_name"] = 	"BR 218 altrot DB (1971)",		
         ["br218_ar2_name"] = 	"BR 218 altrot DB 2 (1971)",		
         ["br218_ob_name"] = 	"BR 218 ozeanblau/beige DB (1974)",	
