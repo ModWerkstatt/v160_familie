@@ -90,9 +90,10 @@ return {
         ["br215_vr_name"] = 	"BR 215 verkehrsrot DB AG (1998)",
         ["br215_vr2_name"] = 	"BR 215.9 verkehrsrot DB Autozug Sylt (2003)",
 			
-        ["br225_or_name"] = 	"BR 225 orientrot DB AG (1994)",
+        ["br225_ob_name"] = 	"BR 225 ozeanblau/beige DB AG (2001)",
+        ["br225_or_name"] = 	"BR 225 orientrot DB AG (2001)",
         ["br225_vg_name"] = 	"BR 225 verkehrsgelb DB Bahnbau Gruppe (2014)",
-        ["br225_vr_name"] = 	"BR 225 verkehrsrot DB AG (1998)",
+        ["br225_vr_name"] = 	"BR 225 verkehrsrot DB AG (2001)",
         ["br225_vr2_name"] = 	"BR 225 verkehrsrot Ralion (2003)",
         ["br225_vr3_name"] = 	"BR 225 verkehrsrot Ralion Logistics (2007)",
 		
