@@ -73,9 +73,8 @@ return {
         ["motor_tb11_956_neu"] = " Diese Lok ist mit dem Motor MTU MA 12 V 956 TB 11 Neu ausgestattet.",		
         ["motor_r40"] = 		" Diese Lok ist mit dem Motor MTU 16 V4000 R40 ausgestattet.",			
 				
-        ["br210_ar_name"] = 	"BR 210 altrot DB (1968)",		
+        ["br210_ar_name"] = 	"BR 210 altrot DB (1970)",		
         ["br210_ob_name"] = 	"BR 210 ozeanblau/beige DB (1974)",	
-        ["br210_pb_name"] = 	"BR 210 purpurrot/beige DB (1976)",
         ["br210_or_name"] = 	"BR 210 orientrot DB (1987)",
         ["br210_vr_name"] = 	"BR 210 verkehrsrot DB AG (1998)",
 		
