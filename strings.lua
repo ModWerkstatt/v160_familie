@@ -60,6 +60,9 @@ return {
         ["v160_familie_br218"] = "Loks der BR 218 aktivieren?",		
         ["option_br218_v160_familie_desc"] = "Sollen die Loks der BR 218 aktiviert werden?",
 		
+        ["v160_familie_br219"] = "Loks der BR 219 aktivieren?",		
+        ["option_br219_v160_familie_desc"] = "Sollen die Loks der BR 219 aktiviert werden?",	
+		
         ["v160_familie_br225"] = "Loks der BR 225 aktivieren?",		
         ["option_br225_v160_familie_desc"] = "Sollen die Loks der BR 225 aktiviert werden?",	
 		
