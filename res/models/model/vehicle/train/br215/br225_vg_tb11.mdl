@@ -174,7 +174,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/br215/dach_vr.mtl", },
-						mesh = "vehicle/train/allgemein/luefter_behr_lod0.msh",
+						mesh = "vehicle/train/allgemein/luefter_voith_lod0.msh",
 						name = "Kühler",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -328,7 +328,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/br215/dach_vr.mtl", },
-						mesh = "vehicle/train/allgemein/luefter_behr_lod1.msh",
+						mesh = "vehicle/train/allgemein/luefter_voith_lod1.msh",
 						name = "Kühler",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -462,7 +462,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/br215/dach_vr.mtl", },
-						mesh = "vehicle/train/allgemein/luefter_behr_lod2.msh",
+						mesh = "vehicle/train/allgemein/luefter_voith_lod2.msh",
 						name = "Kühler",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -584,7 +584,7 @@ return {
 					type = "DIESEL",
 				},
 			},
-			soundSet = { name = "train_diesel", },
+			soundSet = { name = "br218_tb11", },
 			topSpeed = 38.88888889,
 			weight = 79,
 		},
