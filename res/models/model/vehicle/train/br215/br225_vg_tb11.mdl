@@ -184,12 +184,6 @@ return {
 						name = "Dachplatte",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
-					{
-						materials = { "vehicle/train/br215/dach_vr.mtl", },
-						mesh = "vehicle/train/br218/kwmb_lod0.msh",
-						name = "Kühlwasser Messbehälter",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
 					-- Dampfheizung
 					{
 						materials = { "vehicle/train/br215/glas.mtl", },
