@@ -515,7 +515,7 @@ return {
 			priceScale = 1,
 		},
 		description = {
-			name = _("br218_ar2_name"),
+			name = _("br218_ar3_name"),
 			description = _("br218_desc"),
 		},
 		emission = {
