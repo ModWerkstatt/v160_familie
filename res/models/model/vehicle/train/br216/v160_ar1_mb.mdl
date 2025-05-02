@@ -165,6 +165,12 @@ return {
 						name = "Abgas Öffnungen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
+					{
+						materials = { "vehicle/train/br216/rumpf_v160_ar.mtl", },
+						mesh = "vehicle/train/br216/ding_lod0.msh",
+						name = "Rumpf",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
 					-- Dachaufbauten
 --[[				{
 						materials = { "vehicle/train/br216/dach_ar.mtl", },
