@@ -75,7 +75,7 @@ return {
 			            name = "RootNode",
 			            transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, -4.3, 0, 0, 1, },
                     },
---[[					{
+--[[				{
 						materials = { "vehicle/train/emissive/train_all_lights.mtl", },
 						mesh = "vehicle/train/licht/218_vorne_a_lod0.msh",
 						name = "licht_weiss_vorne",
@@ -172,22 +172,28 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					-- Dachaufbauten
---[[				{
+					{
 						materials = { "vehicle/train/br216/dach_ar.mtl", },
-						mesh = "vehicle/train/allgemein/BS2_TB10_1MANT_KWMB_lod0.msh",
+						mesh = "vehicle/train/br216/dachplatten_1a_lod0.msh",
 						name = "Abgas Öffnungen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/br216/dach_ar.mtl", },
-						mesh = "vehicle/train/allgemein/luefter_voith_lod0.msh",
-						name = "Kühler",
+						mesh = "vehicle/train/br216/dachplatten_2a_lod0.msh",
+						name = "Abgas Öffnungen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/br216/dach_ar.mtl", },
-						mesh = "vehicle/train/br216/dachplatten_lod0.msh",
-						name = "Dachplatte",
+						mesh = "vehicle/train/br216/dachplatten_3a_lod0.msh",
+						name = "Abgas Öffnungen",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
+						materials = { "vehicle/train/br216/dach_ar.mtl", },
+						mesh = "vehicle/train/br216/dachluefter_lod0.msh",
+						name = "Kühler",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
@@ -197,12 +203,6 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					-- Dampfheizung
-					{
-						materials = { "vehicle/train/br216/rumpf_v160_ar.mtl", },
-						mesh = "vehicle/train/br216/lufterfenster_lod0.msh",
-						name = "Abgas Öffnungen",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					}, ]]
 					{
 						materials = { "vehicle/train/br216/rumpf_v160_ar.mtl", },
 						mesh = "vehicle/train/br216/dampfheizung_lod0.msh",
