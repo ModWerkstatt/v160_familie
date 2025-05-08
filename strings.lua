@@ -108,6 +108,16 @@ return {
         ["br216_vr_name"] = 	"BR 216 verkehrsrot DB AG (1998)",	
         ["br216_vr2_name"] = 	"BR 216 verkehrsrot DB Cargo (2003)",
 		
+        ["br226_vr_name"] = 	"BR 226 verkehrsrot xxxx (2003)",
+		
+		["216_desc"] = "Die BR 216 ...",
+		
+        ["br217_ar_name"] = 	"BR 217 altrot DB (1968)",		
+        ["br217_ob_name"] = 	"BR 217 ozeanblau/beige DB (1974)",	
+        ["br217_or_name"] = 	"BR 217 orientrot DB (1987)",
+        ["br217_vr_name"] = 	"BR 217 verkehrsrot DB AG (1998)",	
+		
+		["217_desc"] = "Die BR 217 ...",
 		
         ["br218_ar_name"] = 	"BR 218 altrot DB (1971)",		
         ["br218_ar2_name"] = 	"BR 218 altrot DB 2 (1971)",		
