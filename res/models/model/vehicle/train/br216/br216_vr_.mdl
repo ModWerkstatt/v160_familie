@@ -1,8 +1,8 @@
 function data()
 return {
 	boundingInfo = {
-		bbMax = { 8.2, 1.555, 4.27, },
-		bbMin = { -8.2, -1.555, 0, },
+		bbMax = { 8, 1.555, 4.27, },
+		bbMin = { -8, -1.555, 0, },
 	},
 	collider = {
 		params = {
@@ -173,25 +173,25 @@ return {
 					},
 					-- Dachaufbauten
 					{
-						materials = { "vehicle/train/br216/dach_ar.mtl", },
+						materials = { "vehicle/train/br216/dach_vr.mtl", },
 						mesh = "vehicle/train/br216/dachplatten_1a_lod0.msh",
 						name = "Abgas Öffnungen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br216/dach_ar.mtl", },
+						materials = { "vehicle/train/br216/dach_vr.mtl", },
 						mesh = "vehicle/train/br216/dachplatten_2a_lod0.msh",
 						name = "Abgas Öffnungen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br216/dach_ar.mtl", },
+						materials = { "vehicle/train/br216/dach_vr.mtl", },
 						mesh = "vehicle/train/br216/dachplatten_3a_lod0.msh",
 						name = "Abgas Öffnungen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br216/dach_ar.mtl", },
+						materials = { "vehicle/train/br216/dach_vr.mtl", },
 						mesh = "vehicle/train/br216/dachluefter_lod0.msh",
 						name = "Kühler",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -320,25 +320,25 @@ return {
 					},
 					-- Dachaufbauten
 					{
-						materials = { "vehicle/train/br216/dach_ar.mtl", },
+						materials = { "vehicle/train/br216/dach_vr.mtl", },
 						mesh = "vehicle/train/allgemein/BS2_TB10_1MANT_KWMB_lod1.msh",
 						name = "Abgas Öffnungen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br216/dach_ar.mtl", },
+						materials = { "vehicle/train/br216/dach_vr.mtl", },
 						mesh = "vehicle/train/allgemein/luefter_voith_lod1.msh",
 						name = "Kühler",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br216/dach_ar.mtl", },
+						materials = { "vehicle/train/br216/dach_vr.mtl", },
 						mesh = "vehicle/train/br216/dachplatten_lod1.msh",
 						name = "Dachplatte",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br216/dach_ar.mtl", },
+						materials = { "vehicle/train/br216/dach_vr.mtl", },
 						mesh = "vehicle/train/br218/kwmb_lod1.msh",
 						name = "Kühlwasser Messbehälter",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -430,19 +430,19 @@ return {
 					},
 					-- Dachaufbauten
 					{
-						materials = { "vehicle/train/br216/dach_ar.mtl", },
+						materials = { "vehicle/train/br216/dach_vr.mtl", },
 						mesh = "vehicle/train/allgemein/BS2_TB10_1MANT_KWMB_lod2.msh",
 						name = "Abgas Öffnungen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br216/dach_ar.mtl", },
+						materials = { "vehicle/train/br216/dach_vr.mtl", },
 						mesh = "vehicle/train/allgemein/luefter_voith_lod2.msh",
 						name = "Kühler",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br216/dach_ar.mtl", },
+						materials = { "vehicle/train/br216/dach_vr.mtl", },
 						mesh = "vehicle/train/br216/dachplatten_lod2.msh",
 						name = "Dachplatte",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
