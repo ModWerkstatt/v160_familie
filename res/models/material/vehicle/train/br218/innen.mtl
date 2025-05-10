@@ -1,6 +1,11 @@
 function data()
 return {
+	__version = "",
+	order = 0,
 	params = {
+		albedo_scale = {
+			albedoScale = { 1, 1, 1, },
+		},
 		fade_out_range = {
 			fadeOutEndDist = 20000,
 			fadeOutStartDist = 10000,
@@ -15,17 +20,18 @@ return {
 		},
 		map_normal = {
 			fileName = "models/vehicle/train/br218/innen_normal.dds",
-			scaleDownAllowed = true,
 			type = "TWOD",
+		},
+		normal_scale = {
+			normalScale = 1,
 		},
 		polygon_offset = {
 			factor = 0,
+			forceDepthWrite = false,
 			units = 0,
 		},
-		props = {
-			coeffs = { 1, 1, 1, 10, },
-		},
 		two_sided = {
+			flipNormal = true,
 			twoSided = false,
 		},
 	},
