@@ -425,7 +425,7 @@ return {
 						name = "Fenster",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
---[8
+--[[
 					--- Innen ---
 					{
 						materials = { "vehicle/train/br218/innen.mtl", },
