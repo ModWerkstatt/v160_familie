@@ -287,7 +287,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/br218/glas.mtl", },
-						mesh = "vehicle/train/br218/fenster_lod1.msh",
+						mesh = "vehicle/train/br218/fenster_lod0.msh",
 						name = "Fenster",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -415,7 +415,7 @@ return {
 					--- Fenster ---
 					{
 						materials = { "vehicle/train/br218/glas.mtl", },
-						mesh = "vehicle/train/br218/fenster_lod2.msh",
+						mesh = "vehicle/train/br218/fenster_lod0.msh",
 						name = "Fenster",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
