@@ -129,7 +129,8 @@ return {
 		["217_desc"] = "Die V162 später BR 217 ...",
 		
         ["br218_ar_name"] = 	"BR 218 altrot DB (1971)",		
-        ["br218_ar2_name"] = 	"BR 218 altrot DB 2 (1971)",		
+        ["br218_ar2_name"] = 	"BR 218 altrot DB 2 (1971)",	
+        ["br218_ar3_name"] = 	"BR 218 altrot DB AG (1994)",			
         ["br218_ob_name"] = 	"BR 218 ozeanblau/beige DB (1974)",	
         ["br218_ob2_name"] = 	"BR 218 ozeanblau/beige DB Dach Ozeanblau (1974)",	
         ["br218_ob3_name"] = 	"BR 218 ozeanblau/beige DB Dach Ozeanblau (1975)",		
