@@ -112,16 +112,21 @@ return {
 		
         ["br226_vr_name"] = 	"BR 226 verkehrsrot xxxx (2003)",
 		
-		["216_desc"] = "Die BR 216 ...",
+		["216_desc"] = "Die V160 später BR 216 ...",
 		
         ["v162_ar_name"] = 		"V 162 altrot DB (1965)",
         ["br217_ar_name"] = 	"BR 217 altrot DB (1968)",		
         ["br217_ob_name"] = 	"BR 217 ozeanblau/beige DB (1974)",	
-        ["br217_pb_name"] = 	"BR 217 purpurrot/beige DB (1976)",
+        ["br217_ob2_name"] = 	"BR 217 ozeanblau/beige DB AG (1994)",
         ["br217_or_name"] = 	"BR 217 orientrot DB (1987)",
-        ["br217_vr_name"] = 	"BR 217 verkehrsrot DB AG (1998)",	
+        ["br217_or2_name"] = 	"BR 217 orientrot DB AG (1994)",
+        ["br217_vr_name"] = 	"BR 217 verkehrsrot DB AG (1998)",
 		
-		["217_desc"] = "Die BR 217 ...",
+        ["br753_ob_name"] = 	"BR 753 ozeanblau/beige DB (1989)",	
+        ["br753_ob2_name"] = 	"BR 753 ozeanblau/beige DB AG (1994)",		
+        ["br753_pb_name"] = 	"BR 753 purpurrot/beige DB AG (2003)",
+		
+		["217_desc"] = "Die V162 später BR 217 ...",
 		
         ["br218_ar_name"] = 	"BR 218 altrot DB (1971)",		
         ["br218_ar2_name"] = 	"BR 218 altrot DB 2 (1971)",		
@@ -148,8 +153,13 @@ return {
         ["br218_vr7_name"] = 	"BR 218 verkehrsrot DB AG (2007)",
 		
 		["218_desc"] = "Die BR 218 ...",
+		
+        ["v169_ar_name"] = 		"V 169 altrot DB (1964)",
+        ["br219_ar_name"] = 	"BR 219 altrot DB (1968)",
+        ["br219_ob_name"] = 	"BR 219 ozeanblau/beige DB (1974)",	
+        ["br219_vr_name"] = 	"BR 219 verkehrsrot DB AG (1998)",	
 
-
+		["219_desc"] = "Die V169 später BR 219 ...",
 
 	},
 }
