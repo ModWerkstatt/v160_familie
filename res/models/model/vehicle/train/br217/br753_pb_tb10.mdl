@@ -133,27 +133,27 @@ return {
 					},
 					--- Lichter ---
 					{
-						materials = { "vehicle/train/br218/rumpf_pb.mtl", },
+						materials = { "vehicle/train/br217/rumpf_pb.mtl", },
 						mesh = "vehicle/train/br218/gluehbirne_lod0.msh",
 						name = "Glühbirne",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					--- Griffe ---
 					{
-						materials = { "vehicle/train/br218/rumpf_pb.mtl", },
+						materials = { "vehicle/train/br217/rumpf_pb.mtl", },
 						mesh = "vehicle/train/br218/griff_rund_lod0.msh",
 						name = "Griffe Front Seitlich",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br218/rumpf_pb.mtl", },
+						materials = { "vehicle/train/br217/rumpf_pb.mtl", },
 						mesh = "vehicle/train/br218/griff_schraeg_lod0.msh",
 						name = "Griff Front Schräg",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					-- Dosen
 					{
-						materials = { "vehicle/train/br218/rumpf_pb.mtl", },
+						materials = { "vehicle/train/br217/rumpf_pb.mtl", },
 						mesh = "vehicle/train/br218/is_dose_oben_lod0.msh",
 						name = "UIC Dose",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
