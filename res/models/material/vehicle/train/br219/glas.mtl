@@ -5,6 +5,13 @@ return {
 		albedo_scale = {
 			albedoScale = { 1, 1, 1, },
 		},
+		alpha_test = {
+			a2CThreshold = 0,
+			alphaThreshold = 0.5,
+			cutout = false,
+			disableDepthAndNormalWrite = false,
+			sorted = true,
+		},
 		fade_out_range = {
 			fadeOutEndDist = 20000,
 			fadeOutStartDist = 10000,
