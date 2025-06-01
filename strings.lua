@@ -152,6 +152,8 @@ return {
         ["br218_vr6_name"] = 	"BR 218 verkehrsrot DB AG bwegt (2017)",
 		
         ["br218_vr7_name"] = 	"BR 218 verkehrsrot DB AG (2007)",
+					
+        ["br218_west_name"] = 	"BR 218 ozeanblau/beige Westfrankenbahn (2016)",	
 		
 		["218_desc"] = "Die BR 218 ...",
 		
