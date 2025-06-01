@@ -153,7 +153,8 @@ return {
 		
         ["br218_vr7_name"] = 	"BR 218 verkehrsrot DB AG (2007)",
 					
-        ["br218_west_name"] = 	"BR 218 ozeanblau/beige Westfrankenbahn (2016)",	
+        ["br218_west_name"] = 	"BR 218 460 ozeanblau/beige Westfrankenbahn (2016)",
+        ["br218_ueg_name"] = 	"BR 218 333 minttürkis UEG (2022)",		
 		
 		["218_desc"] = "Die BR 218 ...",
 		
