@@ -153,6 +153,7 @@ return {
 		
         ["br218_vr7_name"] = 	"BR 218 verkehrsrot DB AG (2007)",
 					
+        ["br218_or4_name"] = 	"BR 218 406 orientrot DB AG (2023)",
         ["br218_ice_name"] = 	"BR 218 341 lichtgrau DB AG ICE-Design (2023)",
         ["br218_west_name"] = 	"BR 218 460 ozeanblau/beige DB Westfrankenbahn (2016)",
         ["br218_ueg_name"] = 	"BR 218 333 minttürkis UEG (2022)",		
