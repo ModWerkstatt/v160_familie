@@ -152,12 +152,14 @@ return {
         ["br218_vr6_name"] = 	"BR 218 verkehrsrot DB AG bwegt (2017)",
 		
         ["br218_vr7_name"] = 	"BR 218 verkehrsrot DB AG (2007)",
-					
-        ["br218_khr_name"] = 	"BR 218 kieselgrau/orange Kübler Heavy Rail (2021)",
+			
+        ["br218_nesa2_name"] = 	"BR 218 155 altrot Nesa (2018)",		
+        ["br218_nesa_name"] = 	"BR 218 105 purpurrot/beige NeSa (2019)",
+        ["br218_west_name"] = 	"BR 218 460 ozeanblau/beige DB Westfrankenbahn (2016)",
+        ["br218_khr_name"] = 	"BR 218 117 kieselgrau/orange Kübler Heavy Rail (2021)",
+        ["br218_ueg_name"] = 	"BR 218 333 minttürkis UEG (2022)",		
         ["br218_or4_name"] = 	"BR 218 406 orientrot DB AG (2023)",
         ["br218_ice_name"] = 	"BR 218 341 lichtgrau DB AG ICE-Design (2023)",
-        ["br218_west_name"] = 	"BR 218 460 ozeanblau/beige DB Westfrankenbahn (2016)",
-        ["br218_ueg_name"] = 	"BR 218 333 minttürkis UEG (2022)",		
 		
 		["218_desc"] = "Die BR 218 ...",
 		
