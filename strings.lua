@@ -163,7 +163,7 @@ return {
 		
 		["218_desc"] = "Die BR 218 ...",
 		
-        ["v169_ar_name"] = 		"V 169 altrot DB (1964)",
+        ["v169_ar_name"] = 		"V 169 altrot DB (1965)",
         ["br219_ar_name"] = 	"BR 219 altrot DB (1968)",
         ["br219_ob_name"] = 	"BR 219 ozeanblau/beige DB (1974)",	
         ["br219_vr_name"] = 	"BR 219 verkehrsrot DB AG (1998)",	
