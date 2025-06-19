@@ -6,15 +6,15 @@ return {
 			fadeOutStartDist = 10000,
 		},
 		map_albedo = {
-			fileName = "models/vehicle/train/br219/innen_albedo.dds",
+			fileName = "models/vehicle/train/br218/innen_albedo.dds",
 			type = "TWOD",
 		},
 		map_metal_gloss_ao = {
-			fileName = "models/vehicle/train/br219/innen_metal_gloss_ao.dds",
+			fileName = "models/vehicle/train/br218/innen_metal_gloss_ao.dds",
 			type = "TWOD",
 		},
 		map_normal = {
-			fileName = "models/vehicle/train/br219/innen_normal.dds",
+			fileName = "models/vehicle/train/br218/innen_normal.dds",
 			scaleDownAllowed = true,
 			type = "TWOD",
 		},
