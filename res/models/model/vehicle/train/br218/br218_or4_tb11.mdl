@@ -196,6 +196,13 @@ return {
 						name = "Abgashutze Rechts",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 3.53, -0.24083, 4.1672, 1, },
 					},
+					-- Bahnräumer
+					{
+						materials = { "vehicle/train/br218/rumpf_or4.mtl", },
+						mesh = "vehicle/train/allgemein/bahnraeumer_lod0.msh",
+						name = "Bahnräumer",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
 				},
 				name = "RootNode",
 				transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
