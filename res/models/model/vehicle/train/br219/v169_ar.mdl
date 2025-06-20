@@ -558,14 +558,14 @@ return {
 			},
 			engines = {
 				{
-					power = 1839,
+					power = 2243,
 					tractiveEffort = 235,
 					type = "DIESEL",
 				},
 			},
 			soundSet = { name = "br219_tb10", },
-			topSpeed = 38.88888889,
-			weight = 79,
+			topSpeed = 36.1111,
+			weight = 77,
 		},
 		transportVehicle = {
             carrier = "RAIL",
@@ -599,8 +599,8 @@ return {
 			br215 = false,
 			br216 = false,
 			br217 = false,
+			br218 = false,
 			br219 = true,
-			br219 = false,
 			br225 = false,
 			privat = false,
 		},
