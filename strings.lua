@@ -166,6 +166,8 @@ return {
         ["v169_ar_name"] = 		"V 169 altrot DB (1965)",
         ["br219_ar_name"] = 	"BR 219 altrot DB (1968)",
         ["br219_ar2_name"] = 	"BR 219 altrot DB (1974)",
+		
+        ["br219_lokrapid_name"] = 	"BR 219 altrot Lokrapid (2022)",
 
 		["219_desc"] = "Die V169 später BR 219 ...",
 
