@@ -150,8 +150,12 @@ return {
         ["br218_vr4_name"] = 	"BR 218 verkehrsrot DB AG 3 Löwen Takt (2000)",
         ["br218_vr5_name"] = 	"BR 218 verkehrsrot DB Autozug Sylt (2003)",
         ["br218_vr6_name"] = 	"BR 218 verkehrsrot DB AG bwegt (2017)",
+        ["br218_vr7_name"] = 	"BR 218 verkehrsrot DB AG - TB10 - (1998)",
+        ["br218_vr8_name"] = 	"BR 218 verkehrsrot DB AG Kempten (1998)",
 		
-        ["br218_vr7_name"] = 	"BR 218 verkehrsrot DB AG (2007)",
+        ["br218_vr10_name"] = 	"BR 218 verkehrsrot DB AG (1998)",
+        ["br218_vr_name"] = 	"BR 218 verkehrsrot DB AG (1998)",
+		
 			
         ["br218_nesa2_name"] = 	"BR 218 155 altrot Nesa (2018)",		
         ["br218_nesa_name"] = 	"BR 218 105 purpurrot/beige NeSa (2019)",
@@ -160,6 +164,7 @@ return {
         ["br218_ueg_name"] = 	"BR 218 333 minttürkis UEG (2022)",		
         ["br218_or4_name"] = 	"BR 218 406 orientrot DB AG (2023)",
         ["br218_ice_name"] = 	"BR 218 341 lichtgrau DB AG ICE-Design (2023)",
+        ["br218_vr9_name"] = 	"BR 218 440 verkehrsrot Südostbayernbahn (2013)",
 		
 		["218_desc"] = "Die BR 218 ...",
 		
