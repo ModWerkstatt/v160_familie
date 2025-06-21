@@ -161,7 +161,7 @@ return {
 					-- Dachaufbauten
 					{
 						materials = { "vehicle/train/br218/dach_vr.mtl", },
-						mesh = "vehicle/train/allgemein/BS1_TB10_2MANT_KWMB_lod0.msh",
+						mesh = "vehicle/train/allgemein/BS1_TB11_2MANT_lod0.msh",
 						name = "Abgas Öffnungen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -197,24 +197,18 @@ return {
 						name = "Kukuslüfter",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
-					{
-						materials = { "vehicle/train/br218/dach_vr.mtl", },
-						mesh = "vehicle/train/br218/kwmb_lod0.msh",
-						name = "Kühlwasser Messbehälter",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
 					-- Abgashutzen
 					{
 						materials = { "vehicle/train/br218/dach_vr.mtl", },
 						mesh = "vehicle/train/allgemein/hutze_links_lod0.msh",
 						name = "Abgashutze Links",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.5, 0.24083, 4.1672, 1, },
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 3.53, 0.24083, 4.1672, 1, },
 					},
 					{
 						materials = { "vehicle/train/br218/dach_vr.mtl", },
 						mesh = "vehicle/train/allgemein/hutze_rechts_lod0.msh",
 						name = "Abgashutze Rechts",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 3.47, -0.24083, 4.1672, 1, },
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 3.53, -0.24083, 4.1672, 1, },
 					},
 				},
 				name = "RootNode",
@@ -334,7 +328,7 @@ return {
 					-- Dachaufbauten
 					{
 						materials = { "vehicle/train/br218/dach_vr.mtl", },
-						mesh = "vehicle/train/allgemein/BS1_TB10_2MANT_KWMB_lod1.msh",
+						mesh = "vehicle/train/allgemein/BS1_TB11_2MANT_lod1.msh",
 						name = "Abgas Öffnungen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -348,12 +342,6 @@ return {
 						materials = { "vehicle/train/br218/dach_vr.mtl", },
 						mesh = "vehicle/train/br218/dachplatten_lod1.msh",
 						name = "Dachplatte",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
-						materials = { "vehicle/train/br218/dach_vr.mtl", },
-						mesh = "vehicle/train/br218/kwmb_lod1.msh",
-						name = "Kühlwasser Messbehälter",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 				},
@@ -468,7 +456,7 @@ return {
 					-- Dachaufbauten
 					{
 						materials = { "vehicle/train/br218/dach_vr.mtl", },
-						mesh = "vehicle/train/allgemein/BS1_TB10_2MANT_KWMB_lod2.msh",
+						mesh = "vehicle/train/allgemein/BS1_TB11_2MANT_lod2.msh",
 						name = "Abgas Öffnungen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -540,7 +528,7 @@ return {
 					color = { 0.2, 0.2, 0.2, },
 					frequency = 100,
 					lifeTime = 1,
-					position = { 1.5, 0.26, 4.3, },
+					position = { 3.53, 0.26, 4.3, },
 					size01 = { 0.25, 0.5, },
 					velocity = { 0, 1.2, 4, },
 					velocityDampingFactor = 0,
@@ -551,7 +539,7 @@ return {
 					color = { 0.2, 0.2, 0.2, },
 					frequency = 100,
 					lifeTime = 1,
-					position = { 3.47, -0.26, 4.3, },
+					position = { 3.53, -0.26, 4.3, },
 					size01 = { 0.25, 0.5, },
 					velocity = { 0, -1.2, 4, },
 					velocityDampingFactor = 0,
