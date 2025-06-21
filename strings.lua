@@ -160,9 +160,10 @@ return {
 			
         ["br218.8_vr_name"] = 	"BR 218.8 verkehrsrot DB AG Abschlepplok (2004)",
         ["br218_vr9_name"] = 	"BR 218 440 verkehrsrot Südostbayernbahn (2013)",
+        ["br218_sbahn_ts_name"] = "BR 218 486 verkehrsrot DB AG S-Bahn Stuttgart (2015)",
+        ["br218_west_name"] = 	"BR 218 460 ozeanblau/beige DB Westfrankenbahn (2016)",
         ["br218_nesa2_name"] = 	"BR 218 155 altrot Nesa (2018)",		
         ["br218_nesa_name"] = 	"BR 218 105 purpurrot/beige NeSa (2019)",
-        ["br218_west_name"] = 	"BR 218 460 ozeanblau/beige DB Westfrankenbahn (2016)",
         ["br218_khr_name"] = 	"BR 218 117 kieselgrau/orange Kübler Heavy Rail (2021)",
         ["br218_ueg_name"] = 	"BR 218 333 minttürkis UEG (2022)",		
         ["br218_or4_name"] = 	"BR 218 406 orientrot DB AG (2023)",
