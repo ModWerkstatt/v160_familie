@@ -157,6 +157,7 @@ return {
         ["br218_vr_name"] = 	"BR 218 verkehrsrot DB AG (1998)",
 		
 			
+        ["br218_vr9_name"] = 	"BR 218 440 verkehrsrot Südostbayernbahn (2013)",
         ["br218_nesa2_name"] = 	"BR 218 155 altrot Nesa (2018)",		
         ["br218_nesa_name"] = 	"BR 218 105 purpurrot/beige NeSa (2019)",
         ["br218_west_name"] = 	"BR 218 460 ozeanblau/beige DB Westfrankenbahn (2016)",
@@ -164,7 +165,7 @@ return {
         ["br218_ueg_name"] = 	"BR 218 333 minttürkis UEG (2022)",		
         ["br218_or4_name"] = 	"BR 218 406 orientrot DB AG (2023)",
         ["br218_ice_name"] = 	"BR 218 341 lichtgrau DB AG ICE-Design (2023)",
-        ["br218_vr9_name"] = 	"BR 218 440 verkehrsrot Südostbayernbahn (2013)",
+        ["br218_bke_name"] = 	"BR 218 476 ozeanblau/beige BKE (2024)",
 		
 		["218_desc"] = "Die BR 218 ...",
 		
