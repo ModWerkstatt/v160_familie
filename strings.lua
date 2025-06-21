@@ -136,7 +136,8 @@ return {
         ["br218_ob3_name"] = 	"BR 218 ozeanblau/beige DB Dach Ozeanblau (1975)",		
         ["br218_ob4_name"] = 	"BR 218 ozeanblau/beige DB AG (1994)",		
         ["br218_ob5_name"] = 	"BR 218 ozeanblau/beige DB AG 2 (1994)",	
-        ["br218_ob6_name"] = 	"BR 218 ozeanblau/beige DB AG Dach Ozeanblau (2006)",	
+        ["br218_ob6_name"] = 	"BR 218 ozeanblau/beige DB AG Dach Ozeanblau (2006)",		
+        ["br218_ob7_name"] = 	"BR 218 ozeanblau/beige DB AG Dach Ozeanblau (2025)",		
         ["br218_pb_name"] = 	"BR 218 purpurrot/beige DB (1976)",
         ["br218_citybahn_name"] = "BR 218 kieselgrau/orange DB (1984)",
         ["br218_citybahn2_name"] = "BR 218 kieselgrau/orange DB AG (1994)",
@@ -157,6 +158,7 @@ return {
         ["br218_vr_name"] = 	"BR 218 verkehrsrot DB AG (1998)",
 		
 			
+        ["br218.8_vr_name"] = 	"BR 218.8 verkehrsrot DB AG Abschlepplok (2004)",
         ["br218_vr9_name"] = 	"BR 218 440 verkehrsrot Südostbayernbahn (2013)",
         ["br218_nesa2_name"] = 	"BR 218 155 altrot Nesa (2018)",		
         ["br218_nesa_name"] = 	"BR 218 105 purpurrot/beige NeSa (2019)",
