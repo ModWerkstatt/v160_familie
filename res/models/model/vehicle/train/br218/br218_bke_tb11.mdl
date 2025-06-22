@@ -102,7 +102,7 @@ return {
 					--- Fenster ---
 					{
 						materials = { "vehicle/train/br218/rumpf_bke.mtl", },
-						mesh = "vehicle/train/allgemein/fensterrahmen_gummi_lod0.msh",
+						mesh = "vehicle/train/allgemein/fensterrahmen_metall_lod0.msh",
 						name = "Unterbau",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -308,7 +308,7 @@ return {
 					--- Fenster ---
 					{
 						materials = { "vehicle/train/br218/rumpf_bke.mtl", },
-						mesh = "vehicle/train/allgemein/fensterrahmen_gummi_lod1.msh",
+						mesh = "vehicle/train/allgemein/fensterrahmen_metall_lod1.msh",
 						name = "Fensterrahmen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
