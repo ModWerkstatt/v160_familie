@@ -160,44 +160,44 @@ return {
 					},
 					-- Dachaufbauten
 					{
-						materials = { "vehicle/train/br217/dach_ob.mtl", },
+						materials = { "vehicle/train/br217/dach_or.mtl", },
 						mesh = "vehicle/train/allgemein/BS1_TB10_2MANT_KWMB_lod0.msh",
 						name = "Abgas Öffnungen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br217/dach_ob.mtl", },
+						materials = { "vehicle/train/br217/dach_or.mtl", },
 						mesh = "vehicle/train/allgemein/luefter_behr_lod0.msh",
 						name = "Kühler",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br217/dach_ob.mtl", },
+						materials = { "vehicle/train/br217/dach_or.mtl", },
 						mesh = "vehicle/train/br217/dachplatten_lod0.msh",
 						name = "Dachplatte",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br217/dach_ob.mtl", },
+						materials = { "vehicle/train/br217/dach_or.mtl", },
 						mesh = "vehicle/train/br218/kwmb_lod0.msh",
 						name = "Kühlwasser Messbehälter",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br217/dach_ob.mtl", },
+						materials = { "vehicle/train/br217/dach_or.mtl", },
 						mesh = "vehicle/train/br217/hutze_lod0.msh",
 						name = "Abgas Hutze 217",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					-- Abgashutzen
 					{
-						materials = { "vehicle/train/br217/dach_ob.mtl", },
+						materials = { "vehicle/train/br217/dach_or.mtl", },
 						mesh = "vehicle/train/allgemein/hutze_links_lod0.msh",
 						name = "Abgashutze Links",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.5, 0.24083, 4.1672, 1, },
 					},
 					{
-						materials = { "vehicle/train/br217/dach_ob.mtl", },
+						materials = { "vehicle/train/br217/dach_or.mtl", },
 						mesh = "vehicle/train/allgemein/hutze_rechts_lod0.msh",
 						name = "Abgashutze Rechts",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 3.47, -0.24083, 4.1672, 1, },
@@ -319,25 +319,25 @@ return {
 					},
 					-- Dachaufbauten
 					{
-						materials = { "vehicle/train/br217/dach_ob.mtl", },
+						materials = { "vehicle/train/br217/dach_or.mtl", },
 						mesh = "vehicle/train/allgemein/BS1_TB10_2MANT_KWMB_lod1.msh",
 						name = "Abgas Öffnungen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br217/dach_ob.mtl", },
+						materials = { "vehicle/train/br217/dach_or.mtl", },
 						mesh = "vehicle/train/allgemein/luefter_behr_lod1.msh",
 						name = "Kühler",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br217/dach_ob.mtl", },
+						materials = { "vehicle/train/br217/dach_or.mtl", },
 						mesh = "vehicle/train/br217/dachplatten_lod1.msh",
 						name = "Dachplatte",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br217/dach_ob.mtl", },
+						materials = { "vehicle/train/br217/dach_or.mtl", },
 						mesh = "vehicle/train/br218/kwmb_lod1.msh",
 						name = "Kühlwasser Messbehälter",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -453,19 +453,19 @@ return {
 					},
 					-- Dachaufbauten
 					{
-						materials = { "vehicle/train/br217/dach_ob.mtl", },
+						materials = { "vehicle/train/br217/dach_or.mtl", },
 						mesh = "vehicle/train/allgemein/BS1_TB10_2MANT_KWMB_lod2.msh",
 						name = "Abgas Öffnungen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br217/dach_ob.mtl", },
+						materials = { "vehicle/train/br217/dach_or.mtl", },
 						mesh = "vehicle/train/allgemein/luefter_behr_lod2.msh",
 						name = "Kühler",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br217/dach_ob.mtl", },
+						materials = { "vehicle/train/br217/dach_or.mtl", },
 						mesh = "vehicle/train/br217/dachplatten_lod2.msh",
 						name = "Dachplatte",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },

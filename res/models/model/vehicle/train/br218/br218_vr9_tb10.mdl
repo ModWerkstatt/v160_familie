@@ -102,7 +102,7 @@ return {
 					--- Fenster ---
 					{
 						materials = { "vehicle/train/br218/rumpf_vr9.mtl", },
-						mesh = "vehicle/train/allgemein/fensterrahmen_gummi_lod0.msh",
+						mesh = "vehicle/train/allgemein/fensterrahmen_metall_lod0.msh",
 						name = "Unterbau",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -155,6 +155,12 @@ return {
 					{
 						materials = { "vehicle/train/br218/rumpf_vr9.mtl", },
 						mesh = "vehicle/train/br218/is_dose_oben_lod0.msh",
+						name = "UIC Dose",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
+						materials = { "vehicle/train/br218/rumpf_vr9.mtl", },
+						mesh = "vehicle/train/br218/is_dosen_unten_lod0.msh",
 						name = "UIC Dose",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -300,7 +306,7 @@ return {
 					--- Fenster ---
 					{
 						materials = { "vehicle/train/br218/rumpf_vr9.mtl", },
-						mesh = "vehicle/train/allgemein/fensterrahmen_gummi_lod1.msh",
+						mesh = "vehicle/train/allgemein/fensterrahmen_metall_lod1.msh",
 						name = "Fensterrahmen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
