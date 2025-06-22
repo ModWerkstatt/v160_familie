@@ -132,6 +132,7 @@ return {
         ["br218_ar2_name"] = 	"BR 218 altrot DB 2 (1971)",	
         ["br218_ar3_name"] = 	"BR 218 altrot DB AG (1994)",
         ["br218_ar4_name"] = 	"BR 218 altrot DB (1973) - Pieslstick",
+        ["br218_ar5_name"] = 	"BR 218 altrot DB (1973) - MTU4000 R40/R41",
 		
         ["br218_ob_name"] = 	"BR 218 ozeanblau/beige DB (1974)",	
         ["br218_ob2_name"] = 	"BR 218 ozeanblau/beige DB Dach Ozeanblau (1974)",	
@@ -140,16 +141,20 @@ return {
         ["br218_ob5_name"] = 	"BR 218 ozeanblau/beige DB AG 2 (1994)",	
         ["br218_ob6_name"] = 	"BR 218 ozeanblau/beige DB AG Dach Ozeanblau (2006)",		
         ["br218_ob7_name"] = 	"BR 218 ozeanblau/beige DB AG Dach Ozeanblau (2025)",			
-        ["br218_ob8_name"] = 	"BR 218 ozeanblau/beige DB (1974) - Pieslstick",	
+        ["br218_ob8_name"] = 	"BR 218 ozeanblau/beige DB (1974) - Pieslstick",				
+        ["br218_ob9_name"] = 	"BR 218 ozeanblau/beige DB (1974) - MTU4000 R40/R41",				
+        ["br218_ob10_name"] = 	"BR 218 ozeanblau/beige DB AG (1994) - MTU4000 R40/R41",		
 		
         ["br218_pb_name"] = 	"BR 218 purpurrot/beige DB (1976)",
         ["br218_citybahn_name"] = "BR 218 kieselgrau/orange DB (1984)",
         ["br218_citybahn2_name"] = "BR 218 kieselgrau/orange DB AG (1994)",
         ["br218_or_name"] = 	"BR 218 orientrot DB (1987)",
         ["br218_or2_name"] = 	"BR 218 orientrot DB AG (1994)",
-        ["br218_or3_name"] = 	"BR 218 orientrot DB Autozug Sylt (2003)",
+        ["br218_or3_name"] = 	"BR 218 orientrot DB AG Autozug Sylt (2003)",
         ["br218_or5_name"] = 	"BR 218 orientrot DB (1987) - Pieslstick",
-        ["br218_or6_name"] = 	"BR 218 orientrot DB (1994) - Pieslstick",
+        ["br218_or6_name"] = 	"BR 218 orientrot DB AG (1994) - Pieslstick",
+        ["br218_or7_name"] = 	"BR 218 orientrot DB (1987) - MTU4000 R40/R41",
+        ["br218_or8_name"] = 	"BR 218 orientrot DB AG (1994) - MTU4000 R40/R41",
 		
         ["br218_or_versuch_name"] = "BR 218 orientrot DB Versuchslackierung (1987)",
         ["br218_vr_name"] = 	"BR 218 verkehrsrot DB AG (1998)",
@@ -160,9 +165,8 @@ return {
         ["br218_vr6_name"] = 	"BR 218 verkehrsrot DB AG bwegt (2017)",
         ["br218_vr7_name"] = 	"BR 218 verkehrsrot DB AG - TB10 - (1998)",
         ["br218_vr8_name"] = 	"BR 218 verkehrsrot DB AG Kempten (1998)",		
-        ["br218_vr10_name"] = 	"BR 218 verkehrsrot DB AG (1998) - Pieslstick",
-		
-        ["br218_vr_name"] = 	"BR 218 verkehrsrot DB AG (1998)",
+        ["br218_vr10_name"] = 	"BR 218 verkehrsrot DB AG (1998) - Pieslstick",		
+        ["br218_vr11_name"] = 	"BR 218 verkehrsrot DB AG (1998) - MTU4000 R40/R41",
 		
 			
         ["br218.8_vr_name"] = 	"BR 218.8 verkehrsrot DB AG Abschlepplok (2004)",
