@@ -25,7 +25,7 @@ return {
         ["br217_menu"] = "DB BR 217 (V 162)",
         ["br218_menu"] = "DB BR 218",
         ["br219_menu"] = "DB BR 219 (V 169)",
-						
+
         ["br210_fake_menu"] = "BR 210 Fakes",
         ["br215_fake_menu"] = "BR 215 Fakes",
         ["br216_fake_menu"] = "BR 216 (V160) Fakes",
@@ -44,107 +44,107 @@ return {
 
 		["v160_familie_privatbahn"] = "Privatbahn Lackierungen aktivieren?",
 		["option_privatbahn_v160_familie_desc"] = "Sollen die Lackierungen der Privatbahnen im Spiel aktiviert werden?",
-		
+
         ["v160_familie_br210"] = "Loks der BR 210 aktivieren?",
         ["option_br210_v160_familie_desc"] = "Sollen die Loks der BR 210 aktiviert werden?",
-		
-        ["v160_familie_br215"] = "Loks der BR 215 aktivieren?",		
+
+        ["v160_familie_br215"] = "Loks der BR 215 aktivieren?",
         ["option_br215_v160_familie_desc"] = "Sollen die Loks der BR 215 aktiviert werden?",
-		
-        ["v160_familie_br216"] = "Loks der BR 216 aktivieren?",		
+
+        ["v160_familie_br216"] = "Loks der BR 216 aktivieren?",
         ["option_br216_v160_familie_desc"] = "Sollen die Loks der BR 216 aktiviert werden?",
-		
-        ["v160_familie_br217"] = "Loks der BR 217 aktivieren?",		
+
+        ["v160_familie_br217"] = "Loks der BR 217 aktivieren?",
         ["option_br217_v160_familie_desc"] = "Sollen die Loks der BR 217 aktiviert werden?",
-		
-        ["v160_familie_br218"] = "Loks der BR 218 aktivieren?",		
+
+        ["v160_familie_br218"] = "Loks der BR 218 aktivieren?",
         ["option_br218_v160_familie_desc"] = "Sollen die Loks der BR 218 aktiviert werden?",
-		
-        ["v160_familie_br219"] = "Loks der BR 219 aktivieren?",		
-        ["option_br219_v160_familie_desc"] = "Sollen die Loks der BR 219 aktiviert werden?",	
-		
-        ["v160_familie_br225"] = "Loks der BR 225 aktivieren?",		
-        ["option_br225_v160_familie_desc"] = "Sollen die Loks der BR 225 aktiviert werden?",	
-		
-        ["v160_familie_br226"] = "Loks der BR 226 aktivieren?",		
-        ["option_br226_v160_familie_desc"] = "Sollen die Loks der BR 226 aktiviert werden?",			
-		
+
+        ["v160_familie_br219"] = "Loks der BR 219 aktivieren?",
+        ["option_br219_v160_familie_desc"] = "Sollen die Loks der BR 219 aktiviert werden?",
+
+        ["v160_familie_br225"] = "Loks der BR 225 aktivieren?",
+        ["option_br225_v160_familie_desc"] = "Sollen die Loks der BR 225 aktiviert werden?",
+
+        ["v160_familie_br226"] = "Loks der BR 226 aktivieren?",
+        ["option_br226_v160_familie_desc"] = "Sollen die Loks der BR 226 aktiviert werden?",
+
         ["motor_mb_839"] = 		" Diese Lok ist mit dem Motor Mercedes-Benz 839 Bb ausgestattet.",
         ["motor_tb10_956"] = 	" Diese Lok ist mit dem Motor MTU MA 12 V 956 TB10 ausgestattet.",
-        ["motor_pa_4v"] = 		" Diese Lok ist mit dem Motor Pielstick 16 PA 4V 200 ausgestattet.",	
-        ["motor_tb11_956"] = 	" Diese Lok ist mit dem Motor MTU MA 12 V 956 TB11 ausgestattet.",		
-        ["motor_tb11_956_neu"] = " Diese Lok ist mit dem Motor MTU MA 12 V 956 TB 11 Neu ausgestattet.",		
-        ["motor_r40"] = 		" Diese Lok ist mit dem Motor MTU 16 V4000 R40 ausgestattet.",			
-				
-        ["br210_ar_name"] = 	"BR 210 altrot DB (1970)",		
+        ["motor_pa_4v"] = 		" Diese Lok ist mit dem Motor Pielstick 16 PA 4V 200 ausgestattet.",
+        ["motor_tb11_956"] = 	" Diese Lok ist mit dem Motor MTU MA 12 V 956 TB11 ausgestattet.",
+        ["motor_tb11_956_neu"] = " Diese Lok ist mit dem Motor MTU MA 12 V 956 TB 11 Neu ausgestattet.",
+        ["motor_r40"] = 		" Diese Lok ist mit dem Motor MTU 16 V4000 R40 ausgestattet.",
+
+        ["br210_ar_name"] = 	"BR 210 altrot DB (1970)",
         ["br210_ob_name"] = 	"BR 210 ozeanblau/beige DB (1974)",
-		
+
 		["210_desc"] = "Die BR 210 ...",
-		
-        ["br215_ar_name"] = 	"BR 215 altrot DB (1968)",	
-        ["br215_ar2_name"] = 	"BR 215 altrot DB 2 (1968)",		
-        ["br215_ob_name"] = 	"BR 215 ozeanblau/beige DB (1974)",		
-        ["br215_ob2_name"] = 	"BR 215 ozeanblau/beige DB AG (1994)",	
-        ["br215_or_name"] = 	"BR 215 orientrot DB (1987)",	
+
+        ["br215_ar_name"] = 	"BR 215 altrot DB (1968)",
+        ["br215_ar2_name"] = 	"BR 215 altrot DB 2 (1968)",
+        ["br215_ob_name"] = 	"BR 215 ozeanblau/beige DB (1974)",
+        ["br215_ob2_name"] = 	"BR 215 ozeanblau/beige DB AG (1994)",
+        ["br215_or_name"] = 	"BR 215 orientrot DB (1987)",
         ["br215_or2_name"] = 	"BR 215 orientrot DB AG (1994)",
         ["br215_vr_name"] = 	"BR 215 verkehrsrot DB AG (1998)",
         ["br215_vr2_name"] = 	"BR 215.9 verkehrsrot DB Autozug Sylt (2003)",
-			
+
         ["br225_ob_name"] = 	"BR 225 ozeanblau/beige DB AG (2001)",
         ["br225_or_name"] = 	"BR 225 orientrot DB AG (2001)",
         ["br225_vg_name"] = 	"BR 225 verkehrsgelb DB Bahnbau Gruppe (2014)",
         ["br225_vr_name"] = 	"BR 225 verkehrsrot DB AG (2001)",
         ["br225_vr2_name"] = 	"BR 225 verkehrsrot Ralion (2003)",
         ["br225_vr3_name"] = 	"BR 225 verkehrsrot Ralion Logistics (2007)",
-		
+
 		["215_desc"] = "Die BR 215 ...",
-		
+
         ["v160_ar_name"] = 		"V 160 altrot DB (1964)",
         ["v160_ar2_name"] = 	"V 160 altrot DB 2 (1964)",
-        ["br216_ar_name"] = 	"BR 216 altrot DB (1968)",	
-        ["br216_ar2_name"] = 	"BR 216 altrot DB 2 (1968)",		
-        ["br216_ob_name"] = 	"BR 216 ozeanblau/beige DB (1974)",	
-        ["br216_ob2_name"] = 	"BR 216 ozeanblau/beige DB Dach Ozeanblau (1974)",	
+        ["br216_ar_name"] = 	"BR 216 altrot DB (1968)",
+        ["br216_ar2_name"] = 	"BR 216 altrot DB 2 (1968)",
+        ["br216_ob_name"] = 	"BR 216 ozeanblau/beige DB (1974)",
+        ["br216_ob2_name"] = 	"BR 216 ozeanblau/beige DB Dach Ozeanblau (1974)",
         ["br216_or_name"] = 	"BR 216 orientrot DB (1987)",
         ["br216_or2_name"] = 	"BR 216 orientrot DB AG (1994)",
-        ["br216_vr_name"] = 	"BR 216 verkehrsrot DB AG (1998)",	
+        ["br216_vr_name"] = 	"BR 216 verkehrsrot DB AG (1998)",
         ["br216_vr2_name"] = 	"BR 216 verkehrsrot DB Cargo (2003)",
-		
+
         ["br226_vr_name"] = 	"BR 226 verkehrsrot xxxx (2003)",
-		
+
 		["216_desc"] = "Die V160 später BR 216 ...",
-		
+
         ["v162_ar_name"] = 		"V 162 altrot DB (1965)",
-        ["br217_ar_name"] = 	"BR 217 altrot DB (1968)",		
-        ["br217_ob_name"] = 	"BR 217 ozeanblau/beige DB (1974)",	
+        ["br217_ar_name"] = 	"BR 217 altrot DB (1968)",
+        ["br217_ob_name"] = 	"BR 217 ozeanblau/beige DB (1974)",
         ["br217_ob2_name"] = 	"BR 217 ozeanblau/beige DB AG (1994)",
         ["br217_or_name"] = 	"BR 217 orientrot DB (1987)",
         ["br217_or2_name"] = 	"BR 217 orientrot DB AG (1994)",
         ["br217_vr_name"] = 	"BR 217 verkehrsrot DB AG (1998)",
-		
-        ["br753_ob_name"] = 	"BR 753 ozeanblau/beige DB (1989)",	
-        ["br753_ob2_name"] = 	"BR 753 ozeanblau/beige DB AG (1994)",		
+
+        ["br753_ob_name"] = 	"BR 753 ozeanblau/beige DB (1989)",
+        ["br753_ob2_name"] = 	"BR 753 ozeanblau/beige DB AG (1994)",
         ["br753_pb_name"] = 	"BR 753 purpurrot/beige DB AG (2003)",
-		
+
 		["217_desc"] = "Die V162 später BR 217 ...",
-		
-        ["br218_ar_name"] = 	"BR 218 altrot DB (1971)",		
-        ["br218_ar2_name"] = 	"BR 218 altrot DB 2 (1971)",	
+
+        ["br218_ar_name"] = 	"BR 218 altrot DB (1971)",
+        ["br218_ar2_name"] = 	"BR 218 altrot DB 2 (1971)",
         ["br218_ar3_name"] = 	"BR 218 altrot DB AG (1994)",
         ["br218_ar4_name"] = 	"BR 218 altrot DB (1973) - Pieslstick",
         ["br218_ar5_name"] = 	"BR 218 altrot DB (1973) - MTU4000 R40/R41",
-		
-        ["br218_ob_name"] = 	"BR 218 ozeanblau/beige DB (1974)",	
-        ["br218_ob2_name"] = 	"BR 218 ozeanblau/beige DB Dach Ozeanblau (1974)",	
-        ["br218_ob3_name"] = 	"BR 218 ozeanblau/beige DB Dach Ozeanblau (1975)",		
-        ["br218_ob4_name"] = 	"BR 218 ozeanblau/beige DB AG (1994)",		
-        ["br218_ob5_name"] = 	"BR 218 ozeanblau/beige DB AG 2 (1994)",	
-        ["br218_ob6_name"] = 	"BR 218 ozeanblau/beige DB AG Dach Ozeanblau (2006)",		
-        ["br218_ob7_name"] = 	"BR 218 ozeanblau/beige DB AG Dach Ozeanblau (2025)",			
-        ["br218_ob8_name"] = 	"BR 218 ozeanblau/beige DB (1974) - Pieslstick",				
-        ["br218_ob9_name"] = 	"BR 218 ozeanblau/beige DB (1974) - MTU4000 R40/R41",				
-        ["br218_ob10_name"] = 	"BR 218 ozeanblau/beige DB AG (1994) - MTU4000 R40/R41",		
-		
+
+        ["br218_ob_name"] = 	"BR 218 ozeanblau/beige DB (1974)",
+        ["br218_ob2_name"] = 	"BR 218 ozeanblau/beige DB Dach Ozeanblau (1974)",
+        ["br218_ob3_name"] = 	"BR 218 ozeanblau/beige DB Dach Ozeanblau (1975)",
+        ["br218_ob4_name"] = 	"BR 218 ozeanblau/beige DB AG (1994)",
+        ["br218_ob5_name"] = 	"BR 218 ozeanblau/beige DB AG 2 (1994)",
+        ["br218_ob6_name"] = 	"BR 218 ozeanblau/beige DB AG Dach Ozeanblau (2006)",
+        ["br218_ob7_name"] = 	"BR 218 ozeanblau/beige DB AG Dach Ozeanblau (2025)",
+        ["br218_ob8_name"] = 	"BR 218 ozeanblau/beige DB (1974) - Pieslstick",
+        ["br218_ob9_name"] = 	"BR 218 ozeanblau/beige DB (1974) - MTU4000 R40/R41",
+        ["br218_ob10_name"] = 	"BR 218 ozeanblau/beige DB AG (1994) - MTU4000 R40/R41",
+
         ["br218_pb_name"] = 	"BR 218 purpurrot/beige DB (1976)",
         ["br218_citybahn_name"] = "BR 218 kieselgrau/orange DB (1984)",
         ["br218_citybahn2_name"] = "BR 218 kieselgrau/orange DB AG (1994)",
@@ -155,7 +155,7 @@ return {
         ["br218_or6_name"] = 	"BR 218 orientrot DB AG (1994) - Pieslstick",
         ["br218_or7_name"] = 	"BR 218 orientrot DB (1987) - MTU4000 R40/R41",
         ["br218_or8_name"] = 	"BR 218 orientrot DB AG (1994) - MTU4000 R40/R41",
-		
+
         ["br218_or_versuch_name"] = "BR 218 orientrot DB Versuchslackierung (1987)",
         ["br218_vr_name"] = 	"BR 218 verkehrsrot DB AG (1998)",
         ["br218_vr2_name"] = 	"BR 218 verkehrsrot DB AG 2 (1998)",
@@ -164,35 +164,36 @@ return {
         ["br218_vr5_name"] = 	"BR 218 verkehrsrot DB Autozug Sylt (2003)",
         ["br218_vr6_name"] = 	"BR 218 verkehrsrot DB AG bwegt (2017)",
         ["br218_vr7_name"] = 	"BR 218 verkehrsrot DB AG - TB10 - (1998)",
-        ["br218_vr8_name"] = 	"BR 218 verkehrsrot DB AG Kempten (1998)",		
-        ["br218_vr10_name"] = 	"BR 218 verkehrsrot DB AG (1998) - Pieslstick",		
+        ["br218_vr8_name"] = 	"BR 218 verkehrsrot DB AG Kempten (1998)",
+        ["br218_vr10_name"] = 	"BR 218 verkehrsrot DB AG (1998) - Pieslstick",
         ["br218_vr11_name"] = 	"BR 218 verkehrsrot DB AG (1998) - MTU4000 R40/R41",
-		
-			
+
+
         ["br218.8_vr_name"] = 	"BR 218.8 verkehrsrot DB AG Abschlepplok (2004)",
         ["br218_vr9_name"] = 	"BR 218 440 verkehrsrot Südostbayernbahn (2013)",
         ["br218_sbahn_ts_name"] = "BR 218 486 verkehrsrot DB AG S-Bahn Stuttgart (2015)",
         ["br218_west_name"] = 	"BR 218 460 ozeanblau/beige DB Westfrankenbahn (2016)",
-        ["br218_nesa2_name"] = 	"BR 218 155 altrot Nesa (2018)",		
+        ["br218_nesa2_name"] = 	"BR 218 155 altrot Nesa (2018)",
         ["br218_nesa_name"] = 	"BR 218 105 purpurrot/beige NeSa (2019)",
         ["br218_ris_name"] = 	"BR 218 468 tiefschwarz/grau RIS (2019)",
         ["br218_press_name"] = 	"BR 218 verkehrsblau Pressnitztalbahn (2020)",
         ["br218_khr_name"] = 	"BR 218 117 kieselgrau/orange Kübler Heavy Rail (2021)",
         ["br218_press2_name"] = "BR 218 verkehrsblau Pressnitztalbahn (2022)",
-        ["br218_ueg_name"] = 	"BR 218 333 minttürkis UEG (2022)",		
+        ["br218_ueg_name"] = 	"BR 218 333 minttürkis UEG (2022)",
         ["br218_or4_name"] = 	"BR 218 406 orientrot DB AG (2023)",
         ["br218_ice_name"] = 	"BR 218 341 lichtgrau DB AG ICE-Design (2023)",
         ["br218_bke_name"] = 	"BR 218 476 ozeanblau/beige BKE (2024)",
-		
+
 		["218_desc"] = "Die BR 218 ...",
-		
+
         ["v169_ar_name"] = 		"V 169 altrot DB (1965)",
         ["br219_ar_name"] = 	"BR 219 altrot DB (1968)",
         ["br219_ar2_name"] = 	"BR 219 altrot DB (1974)",
-		
+        ["br219_bwg_name"] = 	"BR 219 Waldhof AG (1998)",
+        ["br219_evb_name"] = 	"BR 219 EVB (2001)",
         ["br219_lokrapid_name"] = 	"BR 219 altrot Lokrapid (2022)",
 
-		["219_desc"] = "Die V169 später BR 219 ...",
+		["219_desc"] = "Die V169 wurde gebaut als Prototyp für Lokomotiven mit einer Gasturbine als Zusatzantrieb. Ab 1968 wurde sie als Baureihe 219 eingeordnet. 1974 wurde die Gasturbine nach Schäden endgültig ausgebaut, ebenso die Heizanlage. Danach wurde sie nur noch als Güterzuglok eingesetzt und 1978 abgestellt.\nNach einem 20jährigen Aufenthalt in Italien wurde die Lok 1998 wieder nach Deutschland zurückgeholt und war als DH 280.01 bei der Bahngesellschaft Waldhof AG im Einsatz. 2001 wurde sie an die Eisenbahnen und Verkehrsbetriebe Elbe-Weser (EVB) verkauft und dort vor Containerzügen zwischen Hamburg, Bremerhaven und Bremen eingesetzt. Nach einem Unfall im Jahr 2013 wurde die Lok wiederum abgestellt. Im Jahr 2021 wurde sie an LokRapid in Oldenburg verkauft, durch den selbstständigen Lokführer Roland Sandkuhl aufgearbeitet und ist seit einer im September 2022 abgeschlossenen Hauptuntersuchung wieder vor Güterzügen im Einsatz.",
 
 	},
 }
