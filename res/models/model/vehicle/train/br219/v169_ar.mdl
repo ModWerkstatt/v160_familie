@@ -183,6 +183,18 @@ return {
 						name = "Kühler",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
+					{
+						materials = { "vehicle/train/br219/rumpf_v169_ar.mtl", },
+						mesh = "vehicle/train/br219/waschduesen_lod0.msh",
+						name = "Kühler",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
+						materials = { "vehicle/train/br219/rumpf_v169_ar.mtl", },
+						mesh = "vehicle/train/br219/griff_alt_lod0.msh",
+						name = "Kühler",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
 				},
 				name = "RootNode",
 				transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
