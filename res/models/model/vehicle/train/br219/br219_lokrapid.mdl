@@ -17,7 +17,7 @@ return {
 				children = {
 					{
 						materials = { "vehicle/train/br219/rumpf_lokrapid.mtl", },
-						mesh = "vehicle/train/br219/rumpf_lod0.msh",
+						mesh = "vehicle/train/br219/rumpf_lr_lod0.msh",
 						name = "Rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -135,13 +135,13 @@ return {
 					--- Griffe ---
 					{
 						materials = { "vehicle/train/br219/rumpf_lokrapid.mtl", },
-						mesh = "vehicle/train/br218/griff_rund_lod0.msh",
+						mesh = "vehicle/train/br218/griff_ecke_lod0.msh",
 						name = "Griffe Front Seitlich",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/br219/rumpf_lokrapid.mtl", },
-						mesh = "vehicle/train/br218/griff_schraeg_lod0.msh",
+						mesh = "vehicle/train/br219/griff_alt_lod0.msh",
 						name = "Griff Front Schräg",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -178,8 +178,8 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br219/dach_ar.mtl", },
-						mesh = "vehicle/train/br219/dachplatten_abgas_lod0.msh",
+						materials = { "vehicle/train/br219/rumpf_lokrapid.mtl", },
+						mesh = "vehicle/train/br219/griffe_puffer_lod0.msh",
 						name = "Kühler",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
