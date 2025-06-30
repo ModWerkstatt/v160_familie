@@ -141,19 +141,19 @@ return {
 					},
 					-- Dachaufbauten
 					{
-						materials = { "vehicle/train/br219/dach_bwg.mtl", },
+						materials = { "vehicle/train/br219/dach_evb.mtl", },
 						mesh = "vehicle/train/br219/dachplatten_c_lod0.msh",
 						name = "Dachplatte",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br219/dach_bwg.mtl", },
+						materials = { "vehicle/train/br219/dach_evb.mtl", },
 						mesh = "vehicle/train/br219/dachplatten_turbine_lod0.msh",
 						name = "Kühler",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br219/dach_bwg.mtl", },
+						materials = { "vehicle/train/br219/dach_evb.mtl", },
 						mesh = "vehicle/train/br219/dachluefter_lod0.msh",
 						name = "Dachlüfter",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -287,25 +287,25 @@ return {
 					},
 					-- Dachaufbauten
 					{
-						materials = { "vehicle/train/br219/dach_bwg.mtl", },
+						materials = { "vehicle/train/br219/dach_evb.mtl", },
 						mesh = "vehicle/train/br219/dachplatten_a_lod1.msh",
 						name = "Dachplatte",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br219/dach_bwg.mtl", },
+						materials = { "vehicle/train/br219/dach_evb.mtl", },
 						mesh = "vehicle/train/br219/dachplatten_turbine_lod1.msh",
 						name = "Kühler",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br219/dach_bwg.mtl", },
+						materials = { "vehicle/train/br219/dach_evb.mtl", },
 						mesh = "vehicle/train/br219/dachluefter_lod1.msh",
 						name = "Dachlüfter",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br219/dach_bwg.mtl", },
+						materials = { "vehicle/train/br219/dach_evb.mtl", },
 						mesh = "vehicle/train/br219/abgas_leitblech_lod1.msh",
 						name = "Kühler",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -384,19 +384,19 @@ return {
 					},
 					-- Dachaufbauten
 					{
-						materials = { "vehicle/train/br219/dach_bwg.mtl", },
+						materials = { "vehicle/train/br219/dach_evb.mtl", },
 						mesh = "vehicle/train/br219/dachplatten_a_lod2.msh",
 						name = "Dachplatte",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br219/dach_bwg.mtl", },
+						materials = { "vehicle/train/br219/dach_evb.mtl", },
 						mesh = "vehicle/train/br219/dachplatten_turbine_lod2.msh",
 						name = "Kühler",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/br219/dach_bwg.mtl", },
+						materials = { "vehicle/train/br219/dach_evb.mtl", },
 						mesh = "vehicle/train/br219/dachluefter_lod2.msh",
 						name = "Dachlüfter",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
