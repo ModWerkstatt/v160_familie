@@ -197,7 +197,7 @@ return {
 			visibleFrom = 0,
 			visibleTo = 100,
 		},
---[[		{
+		{
 			node = {
 				children = {
 					{
@@ -400,30 +400,6 @@ return {
 			            name = "RootNode",
 			            transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, -4.3, 0, 0, 1, },
                     },
-					{
-						materials = { "vehicle/train/emissive/train_all_lights.mtl", },
-						mesh = "vehicle/train/licht/218_licht_weiss_lod0.msh",
-						name = "licht_weiss_vorne",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
-						materials = { "vehicle/train/emissive/train_all_lights.mtl", },
-						mesh = "vehicle/train/licht/218_licht_rot_lod0.msh",
-						name = "licht_rot_hinten",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
-						materials = { "vehicle/train/emissive/train_all_lights.mtl", },
-						mesh = "vehicle/train/licht/218_licht_weiss_lod0.msh",
-						name = "licht_weiss_hinten",
-						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
-						materials = { "vehicle/train/emissive/train_all_lights.mtl", },
-						mesh = "vehicle/train/licht/218_licht_rot_lod0.msh",
-						name = "licht_rot_vorne",
-						transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
 					--- Fenster ---
 					{
 						materials = { "vehicle/train/br219/glas.mtl", },
@@ -481,7 +457,7 @@ return {
 			static = false,
 			visibleFrom = 700,
 			visibleTo = 1400,
-		}, ]]--
+		},
 	},
 	metadata = {
 		availability = {
@@ -554,24 +530,18 @@ return {
 				},
 				{
 					axles = { "vehicle/train/allgemein/radsatz_lod2.msh", },
-					frontForwardParts = { 11, },
-              		backForwardParts = { 12, },
-              		frontBackwardParts = { 13, },
-              		backBackwardParts = { 14, },
-              		innerForwardParts = { },
-              		innerBackwardParts = { }
 				},
 			},
 			engines = {
 				{
-					power = 2243,
-					tractiveEffort = 235,
+					power = 1850,
+					tractiveEffort = 215,
 					type = "DIESEL",
 				},
 			},
 			soundSet = { name = "br219_tb10", },
 			topSpeed = 36.1111,
-			weight = 77,
+			weight = 78,
 		},
 		transportVehicle = {
             carrier = "RAIL",
