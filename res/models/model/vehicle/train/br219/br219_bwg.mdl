@@ -142,7 +142,7 @@ return {
 					-- Dachaufbauten
 					{
 						materials = { "vehicle/train/br219/dach_bwg.mtl", },
-						mesh = "vehicle/train/br219/dachplatten_a_lod0.msh",
+						mesh = "vehicle/train/br219/dachplatten_c_lod0.msh",
 						name = "Dachplatte",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -156,12 +156,6 @@ return {
 						materials = { "vehicle/train/br219/dach_bwg.mtl", },
 						mesh = "vehicle/train/br219/dachluefter_lod0.msh",
 						name = "Dachlüfter",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
-						materials = { "vehicle/train/br219/dach_bwg.mtl", },
-						mesh = "vehicle/train/br219/abgas_leitblech_lod0.msh",
-						name = "Kühler",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 				},
