@@ -5,19 +5,39 @@ function data()
     local data = soundsetutil.makeSoundSet()
 
     soundsetutil.addTrackParam01
+	(data, "vehicle/br218/piel_leerlauf.wav", 25.0,
+		{
+		{ 0.0, 0.8 },
+		{ 0.05, 0.0 } },
+		{
+		{ .0, 1.0 },
+		{ 1.0, 1.0 } },
+		"power01")
+
+	
+	soundsetutil.addTrackParam01
     (data, "vehicle/br218/piel.wav", 25.0,
-		    {
-		        { 0.0, 1.0 },
-		        { 1.0, 1.3 }
-            },
-		    {
-		        { .0, 0.75 },
-		        { .1, 0.8 },
-		        { .7, 0.9 },
-		        { .8, 0.95 },
-		        { 1.0, 1.08 }
-            },
-		    "power01")
+		   {
+		{ 0.0, 0.0 },
+		{ 0.01, 0.3},
+		{ 0.05, 1.0},
+		{ 1.0, 1.0 } },
+		{
+		{ .0, 0.65 },
+		{ 1.0, 1.0 } },
+		"power01")
+
+	soundsetutil.addTrackParam01
+	(data, "vehicle/br218/turbo.wav", 25.0,
+		{
+		{ 0.0, 0.0 },
+		{ 0.01, 0.2},
+		{ 0.05, 0.4},
+		{ 1.0, 1.0 } },
+		{
+		{ .0, 0.6 },
+		{ 1.0, 0.8 } },
+		"power01")
 
 
     soundsetutil.addTrackParam01

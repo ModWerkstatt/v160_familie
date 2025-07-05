@@ -569,7 +569,7 @@ return {
 					type = "DIESEL",
 				},
 			},
-			soundSet = { name = "br210_tb10", },
+			soundSet = { name = "tb10_turbine", },
 			topSpeed = 44.444444444,
 			weight = 82,
 		},

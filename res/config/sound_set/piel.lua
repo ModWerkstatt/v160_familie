@@ -33,6 +33,18 @@ function data()
             },
 		    "speed01")
 
+	soundsetutil.addTrackParam01
+	(data, "vehicle/br218/turbo.wav", 25.0,
+		{
+		{ 0.0, 0.0 },
+		{ 0.01, 0.3},
+		{ 0.05, 0.5},
+		{ 1.0, 1.2 } },
+		{
+		{ .0, 0.7 },
+		{ 1.0, 0.9 } },
+		"power01")
+
     soundsetutil.addEvent(data, "horn", { "vehicle/br218/218_horn.wav" }, 50.0)
     soundsetutil.addTrackSqueal(data, "vehicle/br218/kurve.wav", 25.0)
     soundsetutil.addTrackBrake(data, "vehicle/br218/bremse_alt.wav", 25.0, 1.0)
