@@ -569,7 +569,7 @@ return {
 					type = "DIESEL",
 				},
 			},
-			soundSet = { name = "motor_tb10", },
+			soundSet = { name = "motor_mtu_turbine", },
 			topSpeed = 44.444444444,
 			weight = 82,
 		},
