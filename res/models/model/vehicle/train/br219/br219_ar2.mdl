@@ -526,7 +526,7 @@ return {
 					type = "DIESEL",
 				},
 			},
-			soundSet = { name = "br219_tb10", },
+			soundSet = { name = "br218_tb10", },
 			topSpeed = 36.1111,
 			weight = 77,
 		},
