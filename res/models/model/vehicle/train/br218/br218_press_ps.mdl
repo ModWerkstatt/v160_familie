@@ -590,7 +590,7 @@ return {
 					type = "DIESEL",
 				},
 			},
-			soundSet = { name = "br218_piel", },
+			soundSet = { name = "motor_pielstick", },
 			topSpeed = 38.88888889,
 			weight = 79,
 		},

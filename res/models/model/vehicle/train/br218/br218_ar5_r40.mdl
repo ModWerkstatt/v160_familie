@@ -591,7 +591,7 @@ return {
 					type = "DIESEL",
 				},
 			},
-			soundSet = { name = "br218_r40", },
+			soundSet = { name = "motor_r40", },
 			topSpeed = 38.88888889,
 			weight = 79,
 		},
