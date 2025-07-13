@@ -139,14 +139,8 @@ return {
 				children = {
 					{
 						materials = { "vehicle/train/br216/rumpf_br216-010_ar.mtl", },
-						mesh = "vehicle/train/br216/rumpf_lod1.msh",
+						mesh = "vehicle/train/br216/rumpf_vorserie_lod1.msh",
 						name = "Rumpf",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
-						materials = { "vehicle/train/br216/rumpf_br216-010_ar.mtl", },
-						mesh = "vehicle/train/br216/unterbau_lod1.msh",
-						name = "Unterbau",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
                     {
@@ -223,12 +217,6 @@ return {
 					},
 					--- Fenster ---
 					{
-						materials = { "vehicle/train/br216/rumpf_br216-010_ar.mtl", },
-						mesh = "vehicle/train/allgemein/fensterrahmen_gummi_lod1.msh",
-						name = "Fensterrahmen",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
 						materials = { "vehicle/train/br216/glas.mtl", },
 						mesh = "vehicle/train/br216/fenster_lod0.msh",
 						name = "Fenster",
@@ -244,26 +232,8 @@ return {
 					-- Dachaufbauten
 					{
 						materials = { "vehicle/train/br216/dach_v160-010_ar.mtl", },
-						mesh = "vehicle/train/br216/dachplatten_1a_lod1.msh",
+						mesh = "vehicle/train/br216/dach_vorserie_lod1.msh",
 						name = "Abgas Öffnungen",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
-						materials = { "vehicle/train/br216/dach_v160-010_ar.mtl", },
-						mesh = "vehicle/train/br216/dachplatten_2b_lod1.msh",
-						name = "Abgas Öffnungen",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
-						materials = { "vehicle/train/br216/dach_v160-010_ar.mtl", },
-						mesh = "vehicle/train/br216/dachplatten_3b_lod1.msh",
-						name = "Abgas Öffnungen",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
-						materials = { "vehicle/train/br216/dach_v160-010_ar.mtl", },
-						mesh = "vehicle/train/br216/dachluefter_lod1.msh",
-						name = "Kühler",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 				},
@@ -279,14 +249,8 @@ return {
 				children = {
 					{
 						materials = { "vehicle/train/br216/rumpf_br216-010_ar.mtl", },
-						mesh = "vehicle/train/br216/rumpf_lod2.msh",
+						mesh = "vehicle/train/br216/rumpf_vorserie_lod2.msh",
 						name = "Rumpf",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
-						materials = { "vehicle/train/br216/rumpf_br216-010_ar.mtl", },
-						mesh = "vehicle/train/br216/unterbau_lod2.msh",
-						name = "Unterbau",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
                     {
@@ -354,26 +318,8 @@ return {
 					-- Dachaufbauten
 					{
 						materials = { "vehicle/train/br216/dach_v160-010_ar.mtl", },
-						mesh = "vehicle/train/br216/dachplatten_1a_lod2.msh",
+						mesh = "vehicle/train/br216/dach_vorserie_lod2.msh",
 						name = "Abgas Öffnungen",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
-						materials = { "vehicle/train/br216/dach_v160-010_ar.mtl", },
-						mesh = "vehicle/train/br216/dachplatten_2b_lod2.msh",
-						name = "Abgas Öffnungen",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
-						materials = { "vehicle/train/br216/dach_v160-010_ar.mtl", },
-						mesh = "vehicle/train/br216/dachplatten_3b_lod2.msh",
-						name = "Abgas Öffnungen",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
-						materials = { "vehicle/train/br216/dach_v160-010_ar.mtl", },
-						mesh = "vehicle/train/br216/dachluefter_lod2.msh",
-						name = "Kühler",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 				},
@@ -389,7 +335,7 @@ return {
 				children = {
 					{
 						materials = { "vehicle/train/br216/rumpf_br216-010_ar.mtl", },
-						mesh = "vehicle/train/br216/rumpf_lod3.msh",
+						mesh = "vehicle/train/br216/rumpf_vorserie_lod3.msh",
 						name = "Rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
