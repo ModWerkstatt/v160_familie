@@ -106,6 +106,9 @@ return {
         ["br216_vr_name"] = 	"BR 216 DB AG verkehrsrot (1998)",
         ["br216_vr2_name"] = 	"BR 216 DB Cargo verkehrsrot (2003)",
 
+        ["v160-010_ar_name"] =  "V 160 010 DB purpurrot, Vorserie (1960)",
+        ["br216-010_ar_name"] =  "BR 216 010 DB purpurrot, Vorserie (1968)",
+
         ["br226_vr_name"] = 	"BR 226 verkehrsrot xxxx (2003)",
 
 		["216_desc"] = "Die V160 später BR 216 ...",
