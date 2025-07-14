@@ -25,6 +25,7 @@ return {
         ["br217_menu"] = "DB BR 217 (V 162)",
         ["br218_menu"] = "DB BR 218",
         ["br219_menu"] = "DB BR 219 (V 169)",
+        ["dh1504_menu"] = "DH 1504 (ex BR 216)",
 
         ["br210_fake_menu"] = "BR 210 Fakes",
         ["br215_fake_menu"] = "BR 215 Fakes",
@@ -32,6 +33,7 @@ return {
         ["br217_fake_menu"] = "BR 217 (V162) Fakes",
         ["br218_fake_menu"] = "BR 218 Fakes",
         ["br219_fake_menu"] = "BR 219 (V169) Fakes",
+        ["dh1504_menu"] = "DH 1504 (ex BR 216) Fakes",
 
         ['fake'] = 'Fake - ',
 
@@ -112,6 +114,10 @@ return {
         ["br226_vr_name"] = 	"BR 226 verkehrsrot xxxx (2003)",
 
 		["216_desc"] = "Die V160 später BR 216 ...",
+
+        ["dh1504_niag_name"] = "DH 1504 NIAG (2000)",
+
+        ["dh1504_desc"] = "Umgebaute Loks der DH 1504...",
 
         ["v162_ar_name"] = 		"V 162 DB purpurrot (1965)",
         ["br217_ar_name"] = 	"BR 217 DB purpurrot (1968)",
