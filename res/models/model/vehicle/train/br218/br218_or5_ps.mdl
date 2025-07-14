@@ -326,7 +326,7 @@ return {
 					},
 					{
 						materials = { "vehicle/train/br218/dach_or2.mtl", },
-						mesh = "vehicle/train/allgemein/rotor1_lod1.msh",
+						mesh = "vehicle/train/allgemein/rotor_lod1.msh",
 						name = "Dachplatte",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
