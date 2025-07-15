@@ -17,7 +17,7 @@ return {
 	de = {
 
 		["mod_name"] = "BR 210 | BR 215 | BR 216 | BR 217 | BR 218 | BR 219 (\"V 160-Familie\")",
-		["mod_desc"] = "In der Nachkriegszeit projektierte die Bundesbahn ein Neubauprogramm für einmotorige Großdieselloks für den mittleren Streckendienst. 1956 wurde die erste Vorserienmaschine in Betrieb genommen, die Serienfertigung began ab 1964, die Lokomotiven wurden im Fern-, Nah- und Güterverkehr eingesetzt. Die V 160-Familie umfasst die Baureihen BR 215, 216 (V 160), 217 (V 162), 218 (V 164) sowie die Unterbaureihen 218.8, 219 und 225.",
+		["mod_desc"] = "In der Nachkriegszeit projektierte die Bundesbahn ein Neubauprogramm für einmotorige Großdieselloks für den mittleren Streckendienst. 1956 wurde die erste Vorserienmaschine in Betrieb genommen, die Serienfertigung began ab 1964, die Lokomotiven wurden im Fern-, Nah- und Güterverkehr eingesetzt. Die V 160-Familie umfasst die Baureihen 210, 215, 216 (V 160), 217 (V 162), 218, 219 (V 169) sowie die Unterbaureihen 218.8 225. Manche Serien bewährten sich mehr als andere, insgesamt hat diese Familienbaureihe aber das Bild der Streckendieselloks der Deutschen Bundesbahn geprägt. Viele Loks stehen heute noch bei verschiedenen Firmen im Dienst.",
 
         ["br210_menu"] = "DB BR 210",
         ["br215_menu"] = "DB BR 215",
@@ -67,6 +67,9 @@ return {
         ["v160_familie_br226"] = "Loks der BR 226 aktivieren?",
         ["option_br226_v160_familie_desc"] = "Sollen die Loks der BR 226 aktiviert werden?",
 
+        ["v160_familie_br226"] = "Loks der Bauart DH 1504 aktivieren?",
+        ["option_br226_v160_familie_desc"] = "Sollen die Loks der DH 1504 aktiviert werden?",
+
         ["motor_mb_839"] = 		" Diese Lok ist mit dem Motor Mercedes-Benz 839 Bb ausgestattet.",
         ["motor_tb10_956"] = 	" Diese Lok ist mit dem Motor MTU MA 12 V 956 TB10 ausgestattet.",
         ["motor_pa_4v"] = 		" Diese Lok ist mit dem Motor Pielstick 16 PA 4V 200 ausgestattet.",
@@ -77,7 +80,7 @@ return {
         ["br210_ar_name"] = 	"BR 210 DB purpurrot (1970)",
         ["br210_ob_name"] = 	"BR 210 DB ozeanblau/beige (1974)",
 
-		["210_desc"] = "Die BR 210 ...",
+		["210_desc"] = "Die BR 210 wurde ab 1970 in 8 Exemplaren gebaut, um eine stärkere Version der BR 218 zu erhalten. Nach dem erfolgreichen Test der BR 219 entschied man sich für eine stärkere Turbine als Booster. Die in sie gesetzen Erwartung erfüllte die Baureihe, allerdings war die Heizleistung im Windert zu schwach, so dass lange Züge oft in Doppeltraktion mit einer BR 218 gefahren werden mussten. Ab 1978 traten vermehrt Schäden an den Turbinen auf, da diese im Betrieb zu oft gestartet wurden, was die Lebensdauer deutlich verringerte. 1979 wurde die Gasturbinen in allen Loks ausgebaut und alle Loks als Unterbaureihe 218.9 eingereiht.",
 
         ["br215_ar_name"] = 	"BR 215 DB purpurrot (1968)",
         ["br215_ar2_name"] = 	"BR 215 DB purpurrot 2 (1968)",
@@ -95,7 +98,7 @@ return {
         ["br225_vr2_name"] = 	"BR 225 Railion verkehrsrot (2003)",
         ["br225_vr3_name"] = 	"BR 225 Railion Logistics verkehrsrot (2007)",
 
-		["215_desc"] = "Die BR 215 ...",
+		["215_desc"] = "Der wesentliche Unterschied der BR 215 zu den anderen verwandten Baureihen der V 160-Familie war der Dampfheizungskessel. Geplant war sie als V 163, kam aber erst ab 1968 zum Einsatz und sollte mit der Dampfheizung die Dampflokomotiven vor Personenzügen ablösen, da die BR 218 nur eine elektrische Zugheizung besaß. Die Loks kamen vor allen Arten von Zügen zum Einsatz, wurden ab dem Jahr 200 verstärkt ausgemustert. Im Jahr 2003 kamen 17 Loks zu DB AutoZug und wurden analog zur BR 225 umgebaut und als 215.9 geführt. Der Einsatz endete im Jahr 2019.",
 
         ["v160_ar_name"] = 		"V 160 DB purpurrot (1964)",
         ["v160_ar2_name"] = 	"V 160 DB purpurrot 2 (1964)",
@@ -113,11 +116,13 @@ return {
 
         ["br226_vr_name"] = 	"BR 226 verkehrsrot xxxx (2003)",
 
-		["216_desc"] = "Die V160 später BR 216 ...",
+		["216_desc"] = "Die V 160, spätere BR 216, waren die ersten Vetreter der gleichnamigen Familie. Die ersten zehn Vorserienmaschinen wurden im Jahr 1960 ausgeliefert und neun davon besaßen noch ein runde Kopfform (\"Lollo\" genannt). Die zehnte Maschine erhielt eine eckigen Lokkasten, der später für die Serienmaschine übernommen wurde. Die Loks bewährten sich, die Vorserienloks wurden bis 1984 ausgemustert, in Ermangelung von Personenwagen mit Dampfheizung wurde die BR 216 ab 1998 bei DB Cargo eingesetzt, bis 2004 wurden alle Maschinen abgestellt.")",
 
         ["dh1504_niag_name"] = "DH 1504 NIAG (2000)",
+        ["dh1504_ohe_name"] = "DH 1504 OHE (2000)",
+        ["dh1504_blc_name"] = "DH 1504 BLC (2016)",
 
-        ["dh1504_desc"] = "Umgebaute Loks der DH 1504...",
+        ["dh1504_desc"] = "Ab 1998 hat die Firma On Rail insgesamt 6 Loks umgebaut zur DH 1504. Diese war ein fast kompletter Neubau der Lok, nur der Lokkasten und die Drehgestelle wurden weitgehend übernommen. Die Loks erhielten an beiden Ende Vorbauten mit breiten Tritten und jeweils eine Funkfernsteuerung für Rangieraufgaben.",
 
         ["v162_ar_name"] = 		"V 162 DB purpurrot (1965)",
         ["br217_ar_name"] = 	"BR 217 DB purpurrot (1968)",
@@ -131,7 +136,7 @@ return {
         ["br753_ob2_name"] = 	"BR 753 ozeanblau/beige DB AG (1994)",
         ["br753_pb_name"] = 	"BR 753 purpurrot/beige DB AG (2003)",
 
-		["217_desc"] = "Die V162 später BR 217 ...",
+		["217_desc"] = "Im Gegensatz zur BR 215 wurde die V162 (ab 1968 als BR 217 geführt) mit einer elektrischen Zugheizung in Auftrag gegeben. Sie wurde mit einem zusätzlichen Hilfsmotor ausgestattet, der im Güterverkehr auch Traktionsleistung liefern sollte. Die wenig später abgelieferten BR 218 waren aber wirtschaftlicher, so dass dann keine neuen BR 217 mehr beschafft wurden. AB 1997 kamen die Maschinen zu DB Cargo und bis Ende 2011 alle abgestellt.",
 
         ["br218_ar_name"] = 	"BR 218 DB purpurrot (1971)",
         ["br218_ar2_name"] = 	"BR 218 DB purpurrot 2 (1971)",
@@ -189,7 +194,7 @@ return {
         ["br218_ice_name"] = 	"BR 218 341 DB AG ICE-Design (2023)",
         ["br218_bke_name"] = 	"BR 218 476 BKE ozeanblau/beige (2024)",
 
-		["218_desc"] = "Die BR 218 ...",
+		["218_desc"] = "Die BR 218 ist eine vierachsige Diesellok und über viele Jahre hinweg war sie die häufigste und wichtigste Vertreterin der westdeutschen Streckendiesellokomotiven. Als zuletzt entwickeltes Mitglied der V 160-Lokfamilie war sie quasi das Konzentrat aus allen vorherigen Baureihen und dementsprechend bewährt hat sie sich bis heute. Die Loks wurden im Reise- und auch im Güterzugdienst eingesetzt. Im Laufe ihrer Dienstzeit hat sie alle Lackierungsvarianten der Deutschen Bundesbahn und Deutschen Bahn AG mitgemacht. Einige Loks stehen auch heute noch im Dienst bei der DB oder privaten Unternehmen.",
 
         ["v169_ar_name"] = 		"V 169 DB purpurrot (1965)",
         ["br219_ar_name"] = 	"BR 219 DB purpurrot (1968)",
