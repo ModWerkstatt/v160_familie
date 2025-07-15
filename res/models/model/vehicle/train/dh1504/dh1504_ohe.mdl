@@ -465,7 +465,7 @@ return {
 			},
 			engines = {
 				{
-					power = 1400,
+					power = 1500,
 					tractiveEffort = 240,
 					type = "DIESEL",
 				},
