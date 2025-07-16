@@ -616,6 +616,7 @@ return {
 			br218 = true,
 			br219 = false,
 			br225 = false,
+			dh1504 = false,
 			privat = false,
 		},
 	},
