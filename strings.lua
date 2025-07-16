@@ -122,6 +122,8 @@ return {
 
         ["dh1504_niag_8_name"] = "DH 1504 NIAG 8 (2000)",
         ["dh1504_niag_9_name"] = "DH 1504 NIAG 9 (2000)",
+        ["dh1504_mkb_name"] = "DH 1504 MKB (1998)",
+        ["dh1504_mkb_silber_name"] = "DH 1504 MKB silber (2007)",
         ["dh1504_ohe_name"] = "DH 1504 OHE (2000)",
         ["dh1504_blc_name"] = "DH 1504 BLC (2016)",
 
