@@ -116,7 +116,7 @@ return {
 
         ["br226_vr_name"] = 	"BR 226 verkehrsrot xxxx (2003)",
 
-		["216_desc"] = "Die V 160, spätere BR 216, waren die ersten Vetreter der gleichnamigen Familie. Die ersten zehn Vorserienmaschinen wurden im Jahr 1960 ausgeliefert und neun davon besaßen noch ein runde Kopfform (\"Lollo\" genannt). Die zehnte Maschine erhielt eine eckigen Lokkasten, der später für die Serienmaschine übernommen wurde. Die Loks bewährten sich, die Vorserienloks wurden bis 1984 ausgemustert, in Ermangelung von Personenwagen mit Dampfheizung wurde die BR 216 ab 1998 bei DB Cargo eingesetzt, bis 2004 wurden alle Maschinen abgestellt.")",
+		["216_desc"] = "Die V 160, spätere BR 216, waren die ersten Vetreter der gleichnamigen Familie. Die ersten zehn Vorserienmaschinen wurden im Jahr 1960 ausgeliefert und neun davon besaßen noch ein runde Kopfform (\"Lollo\" genannt). Die zehnte Maschine erhielt eine eckigen Lokkasten, der später für die Serienmaschine übernommen wurde. Die Loks bewährten sich, die Vorserienloks wurden bis 1984 ausgemustert, in Ermangelung von Personenwagen mit Dampfheizung wurde die BR 216 ab 1998 bei DB Cargo eingesetzt, bis 2004 wurden alle Maschinen abgestellt.",
 
         ["dh1504_niag_name"] = "DH 1504 NIAG (2000)",
         ["dh1504_ohe_name"] = "DH 1504 OHE (2000)",
