@@ -100,6 +100,8 @@ return {
 
 		["215_desc"] = "Der wesentliche Unterschied der BR 215 zu den anderen verwandten Baureihen der V 160-Familie war der Dampfheizungskessel. Geplant war sie als V 163, kam aber erst ab 1968 zum Einsatz und sollte mit der Dampfheizung die Dampflokomotiven vor Personenzügen ablösen, da die BR 218 nur eine elektrische Zugheizung besaß. Die Loks kamen vor allen Arten von Zügen zum Einsatz, wurden ab dem Jahr 200 verstärkt ausgemustert. Im Jahr 2003 kamen 17 Loks zu DB AutoZug und wurden analog zur BR 225 umgebaut und als 215.9 geführt. Der Einsatz endete im Jahr 2019.",
 
+        ["225_desc"] = "Die Baureihe 225 entstand durch Umzeichnung von 68 Lokomotiven der BR 215 ab dem Jahr 2001. Es wurde sofort oder später die Dampfheizungen ausgebaut. Sie besitzen weiterhin eine Doppeltraktionssteuerung, so dass sie mit anderen Loks der Baureihe zusammen fahren können. Einige Loks wurde an private Unternehmen verkauft.",
+
         ["v160_ar_name"] = 		"V 160 DB purpurrot (1964)",
         ["v160_ar2_name"] = 	"V 160 DB purpurrot 2 (1964)",
         ["br216_ar_name"] = 	"BR 216 DB purpurrot (1968)",
