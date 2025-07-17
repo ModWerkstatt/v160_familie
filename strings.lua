@@ -70,6 +70,8 @@ return {
         ["v160_familie_br226"] = "Loks der Bauart DH 1504 aktivieren?",
         ["option_br226_v160_familie_desc"] = "Sollen die Loks der DH 1504 aktiviert werden?",
 
+        ["jrm_param_type_tooltip"] = "V-160_Familie",
+
         ["motor_mb_839"] = 		" Diese Lok ist mit dem Motor Mercedes-Benz 839 Bb ausgestattet.",
         ["motor_tb10_956"] = 	" Diese Lok ist mit dem Motor MTU MA 12 V 956 TB10 ausgestattet.",
         ["motor_pa_4v"] = 		" Diese Lok ist mit dem Motor Pielstick 16 PA 4V 200 ausgestattet.",
