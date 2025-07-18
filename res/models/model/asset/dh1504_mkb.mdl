@@ -1,0 +1,341 @@
+function data()
+return {
+	boundingInfo = {
+		bbMax = { 8.2, 1.555, 4.27, },
+		bbMin = { -8.2, -1.555, 0, },
+	},
+	collider = {
+		params = {
+			halfExtents = { 0, 0, 0, },
+		},
+		transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+		type = "BOX",
+	},
+	lods = {
+		{
+			node = {
+				children = {
+					{
+						materials = { "vehicle/train/dh1504/rumpf_mkb.mtl", },
+						mesh = "vehicle/train/dh1504/rumpf_lod0.msh",
+						name = "Rumpf",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+                    {
+                        children =  {
+        					{
+								materials = { "vehicle/train/br218/fahrwerk.mtl", },
+								mesh = "vehicle/train/allgemein/drehgestell-atlas_lod0.msh",
+						        name = "drehgestell",
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1.11258, 1, },
+					        },
+					        {
+								materials = { "vehicle/train/br218/fahrwerk.mtl", },
+								mesh = "vehicle/train/allgemein/radsatz_lod0.msh",
+						        name = "rad",
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.43, 0, 0.49182, 1, },
+					        },
+					        {
+								materials = { "vehicle/train/br218/fahrwerk.mtl", },
+								mesh = "vehicle/train/allgemein/radsatz_lod0.msh",
+						        name = "rad",
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.43, 0, 0.49182, 1, },
+					        },
+                        },
+			            name = "RootNode",
+			            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 4.3, 0, 0, 1, },
+                    },
+                    {
+                        children =  {
+        					{
+								materials = { "vehicle/train/br218/fahrwerk.mtl", },
+								mesh = "vehicle/train/allgemein/drehgestell-atlas_lod0.msh",
+						        name = "drehgestell",
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1.11258, 1, },
+					        },
+					        {
+								materials = { "vehicle/train/br218/fahrwerk.mtl", },
+								mesh = "vehicle/train/allgemein/radsatz_lod0.msh",
+						        name = "rad",
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.43, 0, 0.49182, 1, },
+					        },
+					        {
+								materials = { "vehicle/train/br218/fahrwerk.mtl", },
+								mesh = "vehicle/train/allgemein/radsatz_lod0.msh",
+						        name = "rad",
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.43, 0, 0.49182, 1, },
+					        },
+                        },
+			            name = "RootNode",
+			            transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, -4.3, 0, 0, 1, },
+                    },
+					{
+						materials = { "vehicle/train/br216/glas.mtl", },
+						mesh = "vehicle/train/dh1504/fenster_lod0.msh",
+						name = "Fenster",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
+						materials = { "vehicle/train/br218/innen.mtl", },
+						mesh = "vehicle/train/br216/innen_fuehrerstand_lod0.msh",
+						name = "Rumpf",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
+						materials = { "vehicle/train/br218/innen.mtl", },
+						mesh = "vehicle/train/br216/innen_maschinenraum_lod0.msh",
+						name = "Rumpf",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
+						materials = { "vehicle/train/br218/glas.mtl", },
+						mesh = "vehicle/train/br216/innen_sonnenblenden_lod0.msh",
+						name = "Rumpf",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
+						materials = { "vehicle/train/dh1504/dach_mkb.mtl", },
+						mesh = "vehicle/train/dh1504/dach_lod0.msh",
+						name = "Dachplatte",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
+						materials = { "vehicle/train/dh1504/dach_mkb.mtl", },
+						mesh = "vehicle/train/dh1504/kuehler_rund_lod0.msh",
+						name = "Dachplatte",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
+						materials = { "vehicle/train/dh1504/dach_mkb.mtl", },
+						mesh = "vehicle/train/allgemein/rotor_lod0.msh",
+						name = "Rotor",
+						transf = { 0.75, 0, 0, 0, 0, 0.75, 0, 0, 0, 0, 0.75, 0, -1.051, 0, 3.95, 1, },
+					},
+					{
+						materials = { "vehicle/train/dh1504/dach_mkb.mtl", },
+						mesh = "vehicle/train/allgemein/rotor_lod0.msh",
+						name = "Rotor",
+						transf = { 0.75, 0, 0, 0, 0, 0.75, 0, 0, 0, 0, 0.75, 0, 0.233, 0, 3.95, 1, },
+					},
+				},
+				name = "RootNode",
+				transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+			},
+			static = false,
+			visibleFrom = 0,
+			visibleTo = 100,
+		},
+		{
+			node = {
+				children = {
+					{
+						materials = { "vehicle/train/dh1504/rumpf_mkb.mtl", },
+						mesh = "vehicle/train/dh1504/rumpf_lod1.msh",
+						name = "Rumpf",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+                    {
+                        children =  {
+        					{
+								materials = { "vehicle/train/br218/fahrwerk.mtl", },
+								mesh = "vehicle/train/allgemein/drehgestell-atlas_lod1.msh",
+						        name = "drehgestell",
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1.11258, 1, },
+					        },
+					        {
+								materials = { "vehicle/train/br218/fahrwerk.mtl", },
+								mesh = "vehicle/train/allgemein/radsatz_lod1.msh",
+						        name = "rad",
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.43, 0, 0.49182, 1, },
+					        },
+					        {
+								materials = { "vehicle/train/br218/fahrwerk.mtl", },
+								mesh = "vehicle/train/allgemein/radsatz_lod1.msh",
+						        name = "rad",
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.43, 0, 0.49182, 1, },
+					        },
+                        },
+			            name = "RootNode",
+			            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 4.3, 0, 0, 1, },
+                    },
+                    {
+                        children =  {
+        					{
+								materials = { "vehicle/train/br218/fahrwerk.mtl", },
+								mesh = "vehicle/train/allgemein/drehgestell-atlas_lod1.msh",
+						        name = "drehgestell",
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1.11258, 1, },
+					        },
+					        {
+								materials = { "vehicle/train/br218/fahrwerk.mtl", },
+								mesh = "vehicle/train/allgemein/radsatz_lod1.msh",
+						        name = "rad",
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.43, 0, 0.49182, 1, },
+					        },
+					        {
+								materials = { "vehicle/train/br218/fahrwerk.mtl", },
+								mesh = "vehicle/train/allgemein/radsatz_lod1.msh",
+						        name = "rad",
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.43, 0, 0.49182, 1, },
+					        },
+                        },
+			            name = "RootNode",
+			            transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, -4.3, 0, 0, 1, },
+                    },
+					{
+						materials = { "vehicle/train/br216/glas.mtl", },
+						mesh = "vehicle/train/dh1504/fenster_lod0.msh",
+						name = "Fenster",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
+						materials = { "vehicle/train/br218/innen.mtl", },
+						mesh = "vehicle/train/br216/innen_lod1.msh",
+						name = "Rumpf",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
+						materials = { "vehicle/train/dh1504/dach_mkb.mtl", },
+						mesh = "vehicle/train/dh1504/dach_lod1.msh",
+						name = "Dachplatte",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
+						materials = { "vehicle/train/dh1504/dach_mkb.mtl", },
+						mesh = "vehicle/train/dh1504/kuehler_eckig_lod1.msh",
+						name = "Dachplatte",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
+						materials = { "vehicle/train/dh1504/dach_mkb.mtl", },
+						mesh = "vehicle/train/allgemein/rotor_lod1.msh",
+						name = "Rotor",
+						transf = { 0.75, 0, 0, 0, 0, 0.75, 0, 0, 0, 0, 0.75, 0, -1.051, 0, 3.95, 1, },
+					},
+					{
+						materials = { "vehicle/train/dh1504/dach_mkb.mtl", },
+						mesh = "vehicle/train/allgemein/rotor_lod1.msh",
+						name = "Rotor",
+						transf = { 0.75, 0, 0, 0, 0, 0.75, 0, 0, 0, 0, 0.75, 0, 0.233, 0, 3.95, 1, },
+					},
+				},
+				name = "RootNode",
+				transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+			},
+			static = false,
+			visibleFrom = 100,
+			visibleTo = 300,
+		},
+		{
+			node = {
+				children = {
+					{
+						materials = { "vehicle/train/dh1504/rumpf_mkb.mtl", },
+						mesh = "vehicle/train/dh1504/rumpf_lod2.msh",
+						name = "Rumpf",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+                    {
+                        children =  {
+        					{
+								materials = { "vehicle/train/br218/fahrwerk.mtl", },
+								mesh = "vehicle/train/allgemein/drehgestell_lod2.msh",
+						        name = "drehgestell",
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1.11258, 1, },
+					        },
+					        {
+								materials = { "vehicle/train/br218/fahrwerk.mtl", },
+								mesh = "vehicle/train/allgemein/radsatz_lod2.msh",
+						        name = "rad",
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.43, 0, 0.49182, 1, },
+					        },
+					        {
+								materials = { "vehicle/train/br218/fahrwerk.mtl", },
+								mesh = "vehicle/train/allgemein/radsatz_lod2.msh",
+						        name = "rad",
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.43, 0, 0.49182, 1, },
+					        },
+                        },
+			            name = "RootNode",
+			            transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 4.3, 0, 0, 1, },
+                    },
+                    {
+                        children =  {
+        					{
+								materials = { "vehicle/train/br218/fahrwerk.mtl", },
+								mesh = "vehicle/train/allgemein/drehgestell_lod2.msh",
+						        name = "drehgestell",
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 1.11258, 1, },
+					        },
+					        {
+								materials = { "vehicle/train/br218/fahrwerk.mtl", },
+								mesh = "vehicle/train/allgemein/radsatz_lod2.msh",
+						        name = "rad",
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1.43, 0, 0.49182, 1, },
+					        },
+					        {
+								materials = { "vehicle/train/br218/fahrwerk.mtl", },
+								mesh = "vehicle/train/allgemein/radsatz_lod2.msh",
+						        name = "rad",
+								transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -1.43, 0, 0.49182, 1, },
+					        },
+                        },
+			            name = "RootNode",
+			            transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, -4.3, 0, 0, 1, },
+                    },
+					{
+						materials = { "vehicle/train/br216/glas.mtl", },
+						mesh = "vehicle/train/dh1504/fenster_lod0.msh",
+						name = "Fenster",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
+						materials = { "vehicle/train/br218/innen.mtl", },
+						mesh = "vehicle/train/br216/innen_lod2.msh",
+						name = "Rumpf",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
+						materials = { "vehicle/train/dh1504/dach_mkb.mtl", },
+						mesh = "vehicle/train/dh1504/dach_lod2.msh",
+						name = "Dachplatte",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+					{
+						materials = { "vehicle/train/dh1504/dach_mkb.mtl", },
+						mesh = "vehicle/train/dh1504/kuehler_eckig_lod2.msh",
+						name = "Dachplatte",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+				},
+				name = "RootNode",
+				transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+			},
+			static = false,
+			visibleFrom = 300,
+			visibleTo = 700,
+		},
+		{
+			node = {
+				children = {
+					{
+						materials = { "vehicle/train/dh1504/rumpf_mkb.mtl", },
+						mesh = "vehicle/train/br218/rumpf_lod3.msh",
+						name = "Rumpf",
+						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+					},
+				},
+				name = "RootNode",
+				transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
+			},
+			static = false,
+			visibleFrom = 700,
+			visibleTo = 1400,
+		},
+	},
+	metadata = {
+		
+	},
+	version = 1,
+}
+end

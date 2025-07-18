@@ -51,6 +51,7 @@ local model_icons = {
 	"ui/models_small/vehicle/train/br218/br218_bke_tb11@2x.tga",
 	"ui/models_small/vehicle/train/br218/br218_cb1_tb10@2x.tga",
 	"ui/models_small/vehicle/train/br218/br218_cb2_tb10@2x.tga",
+	"ui/models_small/vehicle/train/br218/br218_fzi_tb11@2x.tga",
 	"ui/models_small/vehicle/train/br218/br218_ice_tb11@2x.tga",
 	"ui/models_small/vehicle/train/br218/br218_khr_tb10@2x.tga",
 	"ui/models_small/vehicle/train/br218/br218_nesa2_tb11@2x.tga",
@@ -99,7 +100,10 @@ local model_icons = {
 	"ui/models_small/vehicle/train/br219/br219_lokrapid@2x.tga",
 	"ui/models_small/vehicle/train/br219/v169_ar@2x.tga",
 	"ui/models_small/vehicle/train/dh1504/dh1504_blc@2x.tga",
-	"ui/models_small/vehicle/train/dh1504/dh1504_niag@2x.tga",
+	"ui/models_small/vehicle/train/dh1504/dh1504_mkb@2x.tga",
+	"ui/models_small/vehicle/train/dh1504/dh1504_mkb_silber@2x.tga",
+	"ui/models_small/vehicle/train/dh1504/dh1504_niag_8@2x.tga",
+	"ui/models_small/vehicle/train/dh1504/dh1504_niag_9@2x.tga",
 	"ui/models_small/vehicle/train/dh1504/dh1504_ohe@2x.tga"
 
 }
@@ -152,6 +156,7 @@ local model_values = {
 	"asset/br218_bke_tb11.mdl",
 	"asset/br218_cb1_tb10.mdl",
 	"asset/br218_cb2_tb10.mdl",
+	"asset/br218_fzi_tb11.mdl",
 	"asset/br218_ice_tb11.mdl",
 	"asset/br218_khr_tb10.mdl",
 	"asset/br218_nesa2_tb11.mdl",
@@ -200,11 +205,14 @@ local model_values = {
 	"asset/br219_lokrapid.mdl",
 	"asset/v169_ar.mdl",
 	"asset/dh1504_blc.mdl",
-	"asset/dh1504_niag.mdl",
+	"asset/dh1504_mkb.mdl",
+	"asset/dh1504_mkb_silber.mdl",
+	"asset/dh1504_niag_8.mdl",
+	"asset/dh1504_niag_9.mdl",
 	"asset/dh1504_ohe.mdl"
 
 }
-local assetmodel = ParamBuilder.IconButton("type_param", _("vehicle"), model_icons, model_values, 1, _("jrm_param_type_tooltip"))
+local assetmodel = ParamBuilder.IconButton("type_param", _("vehicle"), model_icons, model_values, 1, _("asset"))
 
 function data()
 
