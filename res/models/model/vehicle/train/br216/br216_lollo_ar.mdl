@@ -404,16 +404,16 @@ return {
 	},
 	metadata = {
 		availability = {
-			yearFrom = 1964,
-			yearTo = 1968,
+			yearFrom = 1968,
+			yearTo = 1984,
 		},
 		cost = {
 			price = -1,
 			priceScale = 1,
 		},
 		description = {
-			name = _("v160_ar2_name"),
-			description = _("br216_desc"),
+			name = _("br16_lollo_ar_name"),
+			description = _("br216_lollo_desc"),
 		},
 		emission = {
 			idleEmission = -1,
