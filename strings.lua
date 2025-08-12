@@ -309,6 +309,14 @@ return {
 
 		["216_desc"] = "Die V 160, spätere BR 216, waren die ersten Vetreter der gleichnamigen Familie. Die ersten zehn Vorserienmaschinen wurden im Jahr 1960 ausgeliefert und neun davon besaßen noch ein runde Kopfform (\"Lollo\" genannt). Die zehnte Maschine erhielt eine eckigen Lokkasten, der später für die Serienmaschine übernommen wurde. Die Loks bewährten sich, die Vorserienloks wurden bis 1984 ausgemustert, in Ermangelung von Personenwagen mit Dampfheizung wurde die BR 216 ab 1998 bei DB Cargo eingesetzt, bis 2004 wurden alle Maschinen abgestellt.",
 
+        ["v160_lollo_ar_name"] = "V 160 \"Lollo\" (1960)",
+        ["br16_lollo_ar_name"] = "BR 216 \"Lollo\" (1968)",
+        ["br216_lollo_ob_name"] = "BR 216 \"Lollo\" ozeanblau/beige (1977)",
+        ["br216_lollo_ar2_name"] = "BR 216 \"Lollo\" Lok-Partner (2015)",
+
+        ["br216_lollo_desc"] = "In den 1950er Jahren stand die Entwicklung einer einmotorigen Streckendiesellok bei der Deutschen Bundesbahn an. Die Auslieferung der Vorserienmaschinen begann 1960, die ersten 9 Maschinen hatten eine stark abgerundete Fahrzeugfront, was ihnen den Namen \"Lollo\" eintrug (in Anspielung auf Gina Lollobrigida). Die zehnte Maschine erhielt eine eckigen Lokkasten, der später für die Serienmaschine übernommen wurde, da er windschnittiger war und günstiger in der Produktion. Alle Vorserienmaschinen wurden bis 1984 ausgemustert, viele wurden danach nach Italien verkauft. V 160 002 kehrt ab 2015 nach Deutschland zurück und wurde betriebsfähig aufgearbeitet. Sie erhielt wieder eine Lackierung in altrot und steht heute noch im Einsatz.",
+
+
         ["dh1504_niag_8_name"] = "DH 1504 NIAG 8 (2000)",
         ["dh1504_niag_9_name"] = "DH 1504 NIAG 9 (2000)",
         ["dh1504_mkb_name"] = "DH 1504 MKB (1998)",
