@@ -53,8 +53,8 @@ return {
         ["v160_familie_br226"] = "Activate Class 226?",
         ["option_br226_v160_familie_desc"] = "Should the Class 226 be activated in the game?",
 
-        ["v160_familie_br226"] = "Activate DH 1504?",
-        ["option_br226_v160_familie_desc"] = "Should the DH 1504  be activated in the game?",
+        ["v160_familie_dh1504"] = "Activate DH 1504?",
+        ["option_dh1504_v160_familie_desc"] = "Should the DH 1504  be activated in the game?",
 
         ["jrm_param_type_tooltip"] = "Engines of the V 160 family",
 
@@ -254,8 +254,8 @@ return {
         ["v160_familie_br226"] = "Loks der BR 226 aktivieren?",
         ["option_br226_v160_familie_desc"] = "Sollen die Loks der BR 226 aktiviert werden?",
 
-        ["v160_familie_br226"] = "Loks der Bauart DH 1504 aktivieren?",
-        ["option_br226_v160_familie_desc"] = "Sollen die Loks der DH 1504 aktiviert werden?",
+        ["v160_familie_dh1504"] = "Loks der Bauart DH 1504 aktivieren?",
+        ["option_dh1504_v160_familie_desc"] = "Sollen die Loks der DH 1504 aktiviert werden?",
 
         ["jrm_param_type_tooltip"] = "V-160_Familie",
 
