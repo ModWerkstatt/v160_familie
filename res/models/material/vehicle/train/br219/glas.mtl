@@ -17,12 +17,12 @@ return {
 			fadeOutStartDist = 10000,
 		},
 		map_albedo_opacity = {
-			fileName = "models/vehicle/train/br219/fenster_albedo_opacity.dds",
+			fileName = "models/vehicle/train/br218/fenster_albedo_opacity.dds",
 			scaleDownAllowed = true,
 			type = "TWOD",
 		},
 		map_metal_gloss_ao = {
-			fileName = "models/vehicle/train/br219/fenster_metal_gloss_ao.dds",
+			fileName = "models/vehicle/train/br218/fenster_metal_gloss_ao.dds",
 			scaleDownAllowed = true,
 			type = "TWOD",
 		},
