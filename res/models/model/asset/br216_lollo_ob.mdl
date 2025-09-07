@@ -1,8 +1,8 @@
 function data()
 return {
 	boundingInfo = {
-		bbMax = { 8.4, 1.555, 4.27, },
-		bbMin = { -8.4, -1.555, 0, },
+		bbMax = { 8, 1.555, 4.27, },
+		bbMin = { -8, -1.555, 0, },
 	},
 	collider = {
 		params = {
@@ -16,8 +16,8 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/dh1504/rumpf_niag_8.mtl", },
-						mesh = "vehicle/train/dh1504/rumpf_lod0.msh",
+						materials = { "vehicle/train/lollo/rumpf_216_ob.mtl", },
+						mesh = "vehicle/train/br216/rumpf_lollo_lod0.msh",
 						name = "Rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -71,19 +71,19 @@ return {
                     },
 					{
 						materials = { "vehicle/train/br216/glas.mtl", },
-						mesh = "vehicle/train/dh1504/fenster_lod0.msh",
+						mesh = "vehicle/train/br216/fenster_lollo_lod0.msh",
 						name = "Fenster",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/br218/innen.mtl", },
-						mesh = "vehicle/train/br216/innen_fuehrerstand_lod0.msh",
+						mesh = "vehicle/train/br216/innen_fuehrerstand_lollo_lod0.msh",
 						name = "Rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/br218/innen.mtl", },
-						mesh = "vehicle/train/br216/innen_maschinenraum_lod0.msh",
+						mesh = "vehicle/train/br216/innen_maschinenraum_lollo_lod0.msh",
 						name = "Rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -94,28 +94,10 @@ return {
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/dh1504/dach_niag.mtl", },
-						mesh = "vehicle/train/dh1504/dach_lod0.msh",
-						name = "Dachplatte",
+						materials = { "vehicle/train/lollo/dach_ar.mtl", },
+						mesh = "vehicle/train/br216/dach_lollo_lod0.msh",
+						name = "Abgas Ã–ffnungen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
-						materials = { "vehicle/train/dh1504/dach_niag.mtl", },
-						mesh = "vehicle/train/dh1504/kuehler_eckig_lod0.msh",
-						name = "Dachplatte",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
-						materials = { "vehicle/train/dh1504/dach_niag.mtl", },
-						mesh = "vehicle/train/allgemein/rotor_lod0.msh",
-						name = "Rotor",
-						transf = { 0.75, 0, 0, 0, 0, 0.75, 0, 0, 0, 0, 0.75, 0, -1.051, 0, 3.95, 1, },
-					},
-					{
-						materials = { "vehicle/train/dh1504/dach_niag.mtl", },
-						mesh = "vehicle/train/allgemein/rotor_lod0.msh",
-						name = "Rotor",
-						transf = { 0.75, 0, 0, 0, 0, 0.75, 0, 0, 0, 0, 0.75, 0, 0.233, 0, 3.95, 1, },
 					},
 				},
 				name = "RootNode",
@@ -129,8 +111,8 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/dh1504/rumpf_niag_8.mtl", },
-						mesh = "vehicle/train/dh1504/rumpf_lod1.msh",
+						materials = { "vehicle/train/lollo/rumpf_216_ob.mtl", },
+						mesh = "vehicle/train/br216/rumpf_lollo_lod1.msh",
 						name = "Rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -184,39 +166,27 @@ return {
                     },
 					{
 						materials = { "vehicle/train/br216/glas.mtl", },
-						mesh = "vehicle/train/dh1504/fenster_lod0.msh",
+						mesh = "vehicle/train/br216/fenster_lollo_lod0.msh",
 						name = "Fenster",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
 						materials = { "vehicle/train/br218/innen.mtl", },
-						mesh = "vehicle/train/br216/innen_lod1.msh",
+						mesh = "vehicle/train/br216/innen_fuehrerstand_lollo_lod1.msh",
 						name = "Rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/dh1504/dach_niag.mtl", },
-						mesh = "vehicle/train/dh1504/dach_lod1.msh",
-						name = "Dachplatte",
+						materials = { "vehicle/train/br218/innen.mtl", },
+						mesh = "vehicle/train/br216/innen_maschinenraum_lollo_lod1.msh",
+						name = "Rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/dh1504/dach_niag.mtl", },
-						mesh = "vehicle/train/dh1504/kuehler_eckig_lod1.msh",
-						name = "Dachplatte",
+						materials = { "vehicle/train/lollo/dach_ar.mtl", },
+						mesh = "vehicle/train/br216/dach_lollo_lod1.msh",
+						name = "Abgas Ã–ffnungen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
-						materials = { "vehicle/train/dh1504/dach_niag.mtl", },
-						mesh = "vehicle/train/allgemein/rotor_lod1.msh",
-						name = "Rotor",
-						transf = { 0.75, 0, 0, 0, 0, 0.75, 0, 0, 0, 0, 0.75, 0, -1.051, 0, 3.95, 1, },
-					},
-					{
-						materials = { "vehicle/train/dh1504/dach_niag.mtl", },
-						mesh = "vehicle/train/allgemein/rotor_lod1.msh",
-						name = "Rotor",
-						transf = { 0.75, 0, 0, 0, 0, 0.75, 0, 0, 0, 0, 0.75, 0, 0.233, 0, 3.95, 1, },
 					},
 				},
 				name = "RootNode",
@@ -230,8 +200,8 @@ return {
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/dh1504/rumpf_niag_8.mtl", },
-						mesh = "vehicle/train/dh1504/rumpf_lod2.msh",
+						materials = { "vehicle/train/lollo/rumpf_216_ob.mtl", },
+						mesh = "vehicle/train/br216/rumpf_lollo_lod2.msh",
 						name = "Rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
@@ -284,27 +254,15 @@ return {
 			            transf = { -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, -4.3, 0, 0, 1, },
                     },
 					{
-						materials = { "vehicle/train/br216/glas.mtl", },
-						mesh = "vehicle/train/dh1504/fenster_lod0.msh",
-						name = "Fenster",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
 						materials = { "vehicle/train/br218/innen.mtl", },
 						mesh = "vehicle/train/br216/innen_lod2.msh",
 						name = "Rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 					{
-						materials = { "vehicle/train/dh1504/dach_niag.mtl", },
-						mesh = "vehicle/train/dh1504/dach_lod2.msh",
-						name = "Dachplatte",
-						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
-					},
-					{
-						materials = { "vehicle/train/dh1504/dach_niag.mtl", },
-						mesh = "vehicle/train/dh1504/kuehler_eckig_lod2.msh",
-						name = "Dachplatte",
+						materials = { "vehicle/train/lollo/dach_ar.mtl", },
+						mesh = "vehicle/train/br216/dach_lollo_lod2.msh",
+						name = "Abgas Ã–ffnungen",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
 				},
@@ -315,12 +273,13 @@ return {
 			visibleFrom = 300,
 			visibleTo = 700,
 		},
+
 		{
 			node = {
 				children = {
 					{
-						materials = { "vehicle/train/dh1504/rumpf_niag_8.mtl", },
-						mesh = "vehicle/train/br218/rumpf_lod3.msh",
+						materials = { "vehicle/train/lollo/rumpf_216_ob.mtl", },
+						mesh = "vehicle/train/br216/rumpf_lod3.msh",
 						name = "Rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					},
