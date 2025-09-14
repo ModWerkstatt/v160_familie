@@ -21,7 +21,7 @@ return {
 				key = "v160_familie_fake",
 				name = _("v160_familie_fake"),
 				values = { "No", "Yes", },
-				tooltip = _("option_fake_br151_desc"),
+				tooltip = _("option_fake_v160_familie_desc"),
 				defaultIndex = 0,
 			},
 			{
