@@ -190,11 +190,8 @@ return {
 
 		if modParams[getCurrentModId()] ~= nil then
 			local params = modParams[getCurrentModId()]
-			if params["v160_familie_vorspann"] == 0 then
-				--addFileFilter("model/transportVehicle", vorspannFilter)
-				addModifier("loadModel", vorspannFilter)
-			end
 			if params["v160_familie_fake"] == 0 then
+				--addFileFilter("model/transportVehicle", fakeFilter)
 				addModifier("loadModel", fakeFilter)
 			end
 			if params["v160_familie_privatbahn"] == 0 then
