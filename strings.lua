@@ -199,6 +199,15 @@ return {
 
 		["219_desc"] = "The V169 was built as a prototype for locomotives with a gas turbine as auxiliary drive. From 1968 it was categorised as class 219. In 1974, the gas turbine was finally removed following damage, as was the heating system. After that, it was only used as a freight locomotive and was decommissioned in 1978.\nAfter a 20-year stay in Italy, the locomotive was brought back to Germany in 1998 and was used as DH 280.01 by the railway company Waldhof AG. In 2001, it was sold to Eisenbahnen und Verkehrsbetriebe Elbe-Weser (EVB), where it was used in front of container trains between Hamburg, Bremerhaven and Bremen. Following an accident in 2013, the locomotive was once again decommissioned. In 2021, it was sold to LokRapid in Oldenburg, refurbished by the self-employed locomotive driver Roland Sandkuhl and has been back in service in front of goods trains since a main inspection was completed in September 2022.",
 
+        ["offset x-axis"] = "Offset x-axis",
+        ["vehicle"] = "Vehicle",
+        ["asset"] = "Asset",
+        ["height"] = "Height",
+        ["ground"] = "Ground",
+        ["rail"] = "Rail",
+        ["height_tooltip"] = "Where should be the origin of the height?",
+        ["jrm_param_offsetx_tooltip"] = "Offset in x direction",
+
 
 	},
 	de = {
@@ -407,6 +416,16 @@ return {
         ["br219_lokrapid_name"] = 	"BR 219 rubinrot Lokrapid (2022)",
 
 		["219_desc"] = "Die V169 wurde gebaut als Prototyp für Lokomotiven mit einer Gasturbine als Zusatzantrieb. Ab 1968 wurde sie als Baureihe 219 eingeordnet. 1974 wurde die Gasturbine nach Schäden endgültig ausgebaut, ebenso die Heizanlage. Danach wurde sie nur noch als Güterzuglok eingesetzt und 1978 abgestellt.\nNach einem 20jährigen Aufenthalt in Italien wurde die Lok 1998 wieder nach Deutschland zurückgeholt und war als DH 280.01 bei der Bahngesellschaft Waldhof AG im Einsatz. 2001 wurde sie an die Eisenbahnen und Verkehrsbetriebe Elbe-Weser (EVB) verkauft und dort vor Containerzügen zwischen Hamburg, Bremerhaven und Bremen eingesetzt. Nach einem Unfall im Jahr 2013 wurde die Lok wiederum abgestellt. Im Jahr 2021 wurde sie an LokRapid in Oldenburg verkauft, durch den selbstständigen Lokführer Roland Sandkuhl aufgearbeitet und ist seit einer im September 2022 abgeschlossenen Hauptuntersuchung wieder vor Güterzügen im Einsatz.",
+
+        ["offset x-axis"] = "Offset x-Achse",
+        ["vehicle"] = "Fahrzeug",
+        ["asset"] = "Asset",
+        ["height"] = "Höhe",
+        ["ground"] = "Boden",
+        ["rail"] = "Schiene",
+        ["height_tooltip"] = "Wonach soll die Höhe gesetzt werden?",
+        ["jrm_param_offsetx_tooltip"] = "Verschiebung in x-Richtung",
+
 
 	},
 }
