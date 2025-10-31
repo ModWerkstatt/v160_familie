@@ -81,7 +81,7 @@ return {
 
         ["br225_ob_name"] = 	"Class 225 turquoise/cream DB AG (2001)",
         ["br225_or_name"] = 	"Class 225 orient red DB AG (2001)",
-        ["br225_vg_name"] = 	"Class 225 traffic yellow DB Bahnbau Gruppe (2014)",
+        ["br225_vg_name"] = 	"Class 225 gold yellow DB Bahnbau Gruppe (2014)",
         ["br225_vr_name"] = 	"Class 225 traffic red DB AG (2001)",
         ["br225_vr2_name"] = 	"Class 225 traffic red Railion (2003)",
         ["br225_vr3_name"] = 	"Class 225 traffic red Railion Logistics (2007)",
@@ -282,7 +282,7 @@ return {
 
         ["br225_ob_name"] = 	"BR 225 ozeanblau/beige DB AG (2001)",
         ["br225_or_name"] = 	"BR 225 orientrot DB AG (2001)",
-        ["br225_vg_name"] = 	"BR 225 verkehrsgelb DB Bahnbau Gruppe (2014)",
+        ["br225_vg_name"] = 	"BR 225 goldgelb DB Bahnbau Gruppe (2014)",
         ["br225_vr_name"] = 	"BR 225 verkehrsrot DB AG (2001)",
         ["br225_vr2_name"] = 	"BR 225 verkehrsrot Railion (2003)",
         ["br225_vr3_name"] = 	"BR 225 verkehrsrot Railion Logistics (2007)",
