@@ -269,7 +269,7 @@ return {
         ["br210_ar_name"] = 	"BR 210 purpurrot DB (1970)",
         ["br210_ob_name"] = 	"BR 210 ozeanblau/beige DB (1974)",
 
-		["210_desc"] = "Die BR 210 wurde ab 1970 in 8 Exemplaren gebaut, um eine stärkere Version der BR 218 zu erhalten. Nach dem erfolgreichen Test der BR 219 entschied man sich für eine stärkere Turbine als Booster. Die in sie gesetzen Erwartung erfüllte die Baureihe, allerdings war die Heizleistung im Windert zu schwach, so dass lange Züge oft in Doppeltraktion mit einer BR 218 gefahren werden mussten. Ab 1978 traten vermehrt Schäden an den Turbinen auf, da diese im Betrieb zu oft gestartet wurden, was die Lebensdauer deutlich verringerte. 1979 wurde die Gasturbinen in allen Loks ausgebaut und alle Loks als Unterbaureihe 218.9 eingereiht.",
+		["br210_desc"] = "Die BR 210 wurde ab 1970 in 8 Exemplaren gebaut, um eine stärkere Version der BR 218 zu erhalten. Nach dem erfolgreichen Test der BR 219 entschied man sich für eine stärkere Turbine als Booster. Die in sie gesetzen Erwartung erfüllte die Baureihe, allerdings war die Heizleistung im Windert zu schwach, so dass lange Züge oft in Doppeltraktion mit einer BR 218 gefahren werden mussten. Ab 1978 traten vermehrt Schäden an den Turbinen auf, da diese im Betrieb zu oft gestartet wurden, was die Lebensdauer deutlich verringerte. 1979 wurde die Gasturbinen in allen Loks ausgebaut und alle Loks als Unterbaureihe 218.9 eingereiht.",
 
         ["br215_ar_name"] = 	"BR 215 purpurrot DB (1968)",
         ["br215_ar2_name"] = 	"BR 215 purpurrot 2 DB (1968)",
@@ -287,9 +287,9 @@ return {
         ["br225_vr2_name"] = 	"BR 225 verkehrsrot Railion (2003)",
         ["br225_vr3_name"] = 	"BR 225 verkehrsrot Railion Logistics (2007)",
 
-		["215_desc"] = "Der wesentliche Unterschied der BR 215 zu den anderen verwandten Baureihen der V 160-Familie war der Dampfheizungskessel. Geplant war sie als V 163, kam aber erst ab 1968 zum Einsatz und sollte mit der Dampfheizung die Dampflokomotiven vor Personenzügen ablösen, da die BR 218 nur eine elektrische Zugheizung besaß. Die Loks kamen vor allen Arten von Zügen zum Einsatz, wurden ab dem Jahr 200 verstärkt ausgemustert. Im Jahr 2003 kamen 17 Loks zu DB AutoZug und wurden analog zur BR 225 umgebaut und als 215.9 geführt. Der Einsatz endete im Jahr 2019.",
+		["br215_desc"] = "Der wesentliche Unterschied der BR 215 zu den anderen verwandten Baureihen der V 160-Familie war der Dampfheizungskessel. Geplant war sie als V 163, kam aber erst ab 1968 zum Einsatz und sollte mit der Dampfheizung die Dampflokomotiven vor Personenzügen ablösen, da die BR 218 nur eine elektrische Zugheizung besaß. Die Loks kamen vor allen Arten von Zügen zum Einsatz, wurden ab dem Jahr 200 verstärkt ausgemustert. Im Jahr 2003 kamen 17 Loks zu DB AutoZug und wurden analog zur BR 225 umgebaut und als 215.9 geführt. Der Einsatz endete im Jahr 2019.",
 
-        ["225_desc"] = "Die Baureihe 225 entstand durch Umzeichnung von 68 Lokomotiven der BR 215 ab dem Jahr 2001. Es wurde sofort oder später die Dampfheizungen ausgebaut. Sie besitzen weiterhin eine Doppeltraktionssteuerung, so dass sie mit anderen Loks der Baureihe zusammen fahren können. Einige Loks wurde an private Unternehmen verkauft.",
+        ["br225_desc"] = "Die Baureihe 225 entstand durch Umzeichnung von 68 Lokomotiven der BR 215 ab dem Jahr 2001. Es wurde sofort oder später die Dampfheizungen ausgebaut. Sie besitzen weiterhin eine Doppeltraktionssteuerung, so dass sie mit anderen Loks der Baureihe zusammen fahren können. Einige Loks wurde an private Unternehmen verkauft.",
 
         ["v160_ar_name"] = 		"V 160 purpurrot DB (1964)",
         ["v160_ar2_name"] = 	"V 160 purpurrot 2 DB (1964)",
@@ -307,7 +307,7 @@ return {
 
         ["br226_vr_name"] = 	"BR 226 verkehrsrot xxxx (2003)",
 
-		["216_desc"] = "Die V 160, spätere BR 216, waren die ersten Vetreter der gleichnamigen Familie. Die ersten zehn Vorserienmaschinen wurden im Jahr 1960 ausgeliefert und neun davon besaßen noch ein runde Kopfform (\"Lollo\" genannt). Die zehnte Maschine erhielt eine eckigen Lokkasten, der später für die Serienmaschine übernommen wurde. Die Loks bewährten sich, die Vorserienloks wurden bis 1984 ausgemustert, in Ermangelung von Personenwagen mit Dampfheizung wurde die BR 216 ab 1998 bei DB Cargo eingesetzt, bis 2004 wurden alle Maschinen abgestellt.",
+		["br216_desc"] = "Die V 160, spätere BR 216, waren die ersten Vetreter der gleichnamigen Familie. Die ersten zehn Vorserienmaschinen wurden im Jahr 1960 ausgeliefert und neun davon besaßen noch ein runde Kopfform (\"Lollo\" genannt). Die zehnte Maschine erhielt eine eckigen Lokkasten, der später für die Serienmaschine übernommen wurde. Die Loks bewährten sich, die Vorserienloks wurden bis 1984 ausgemustert, in Ermangelung von Personenwagen mit Dampfheizung wurde die BR 216 ab 1998 bei DB Cargo eingesetzt, bis 2004 wurden alle Maschinen abgestellt.",
 
         ["v160_lollo_ar_name"] = "V 160 \"Lollo\" (1960)",
         ["br16_lollo_ar_name"] = "BR 216 \"Lollo\" (1968)",
@@ -338,7 +338,7 @@ return {
         ["br753_ob2_name"] = 	"BR 753 ozeanblau/beige DB AG (1994)",
         ["br753_pb_name"] = 	"BR 753 purpurrot/beige DB AG (2003)",
 
-		["217_desc"] = "Im Gegensatz zur BR 215 wurde die V162 (ab 1968 als BR 217 geführt) mit einer elektrischen Zugheizung in Auftrag gegeben. Sie wurde mit einem zusätzlichen Hilfsmotor ausgestattet, der im Güterverkehr auch Traktionsleistung liefern sollte. Die wenig später abgelieferten BR 218 waren aber wirtschaftlicher, so dass dann keine neuen BR 217 mehr beschafft wurden. AB 1997 kamen die Maschinen zu DB Cargo und bis Ende 2011 alle abgestellt.",
+		["br217_desc"] = "Im Gegensatz zur BR 215 wurde die V162 (ab 1968 als BR 217 geführt) mit einer elektrischen Zugheizung in Auftrag gegeben. Sie wurde mit einem zusätzlichen Hilfsmotor ausgestattet, der im Güterverkehr auch Traktionsleistung liefern sollte. Die wenig später abgelieferten BR 218 waren aber wirtschaftlicher, so dass dann keine neuen BR 217 mehr beschafft wurden. AB 1997 kamen die Maschinen zu DB Cargo und bis Ende 2011 alle abgestellt.",
 
         ["br218_ar_name"] = 	"BR 218 purpurrot DB (1971)",
         ["br218_ar2_name"] = 	"BR 218 DB purpurrot 2 DB (1971)",
@@ -397,7 +397,7 @@ return {
         ["br218_bke_name"] = 	"BR 218 476 ozeanblau/beige BKE (2024)",
         ["br218_fzi_name"] =    "BR 218 497 Märklin Werbung (2021)",
 
-		["218_desc"] = "Die BR 218 ist eine vierachsige Diesellok und über viele Jahre hinweg war sie die häufigste und wichtigste Vertreterin der westdeutschen Streckendiesellokomotiven. Als zuletzt entwickeltes Mitglied der V 160-Lokfamilie war sie quasi das Konzentrat aus allen vorherigen Baureihen und dementsprechend bewährt hat sie sich bis heute. Die Loks wurden im Reise- und auch im Güterzugdienst eingesetzt. Im Laufe ihrer Dienstzeit hat sie alle Lackierungsvarianten der Deutschen Bundesbahn und Deutschen Bahn AG mitgemacht. Einige Loks stehen auch heute noch im Dienst bei der DB oder privaten Unternehmen.",
+		["br218_desc"] = "Die BR 218 ist eine vierachsige Diesellok und über viele Jahre hinweg war sie die häufigste und wichtigste Vertreterin der westdeutschen Streckendiesellokomotiven. Als zuletzt entwickeltes Mitglied der V 160-Lokfamilie war sie quasi das Konzentrat aus allen vorherigen Baureihen und dementsprechend bewährt hat sie sich bis heute. Die Loks wurden im Reise- und auch im Güterzugdienst eingesetzt. Im Laufe ihrer Dienstzeit hat sie alle Lackierungsvarianten der Deutschen Bundesbahn und Deutschen Bahn AG mitgemacht. Einige Loks stehen auch heute noch im Dienst bei der DB oder privaten Unternehmen.",
 
         ["v169_ar_name"] = 		"V 169 purpurrot DB (1965)",
         ["br219_ar_name"] = 	"BR 219 purpurrot DB (1968)",
@@ -406,7 +406,7 @@ return {
         ["br219_evb_name"] = 	"BR 219 EVB (2001)",
         ["br219_lokrapid_name"] = 	"BR 219 rubinrot Lokrapid (2022)",
 
-		["219_desc"] = "Die V169 wurde gebaut als Prototyp für Lokomotiven mit einer Gasturbine als Zusatzantrieb. Ab 1968 wurde sie als Baureihe 219 eingeordnet. 1974 wurde die Gasturbine nach Schäden endgültig ausgebaut, ebenso die Heizanlage. Danach wurde sie nur noch als Güterzuglok eingesetzt und 1978 abgestellt.\nNach einem 20jährigen Aufenthalt in Italien wurde die Lok 1998 wieder nach Deutschland zurückgeholt und war als DH 280.01 bei der Bahngesellschaft Waldhof AG im Einsatz. 2001 wurde sie an die Eisenbahnen und Verkehrsbetriebe Elbe-Weser (EVB) verkauft und dort vor Containerzügen zwischen Hamburg, Bremerhaven und Bremen eingesetzt. Nach einem Unfall im Jahr 2013 wurde die Lok wiederum abgestellt. Im Jahr 2021 wurde sie an LokRapid in Oldenburg verkauft, durch den selbstständigen Lokführer Roland Sandkuhl aufgearbeitet und ist seit einer im September 2022 abgeschlossenen Hauptuntersuchung wieder vor Güterzügen im Einsatz.",
+		["br219_desc"] = "Die V169 wurde gebaut als Prototyp für Lokomotiven mit einer Gasturbine als Zusatzantrieb. Ab 1968 wurde sie als Baureihe 219 eingeordnet. 1974 wurde die Gasturbine nach Schäden endgültig ausgebaut, ebenso die Heizanlage. Danach wurde sie nur noch als Güterzuglok eingesetzt und 1978 abgestellt.\nNach einem 20jährigen Aufenthalt in Italien wurde die Lok 1998 wieder nach Deutschland zurückgeholt und war als DH 280.01 bei der Bahngesellschaft Waldhof AG im Einsatz. 2001 wurde sie an die Eisenbahnen und Verkehrsbetriebe Elbe-Weser (EVB) verkauft und dort vor Containerzügen zwischen Hamburg, Bremerhaven und Bremen eingesetzt. Nach einem Unfall im Jahr 2013 wurde die Lok wiederum abgestellt. Im Jahr 2021 wurde sie an LokRapid in Oldenburg verkauft, durch den selbstständigen Lokführer Roland Sandkuhl aufgearbeitet und ist seit einer im September 2022 abgeschlossenen Hauptuntersuchung wieder vor Güterzügen im Einsatz.",
 
 	},
 }
